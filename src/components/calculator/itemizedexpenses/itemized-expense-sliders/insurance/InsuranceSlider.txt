@@ -1,0 +1,262 @@
+import React, { useEffect, useContext, useState } from "react";
+
+import { useDispatch } from "react-redux";
+
+import analytics from "@react-native-firebase/analytics";
+
+import styled from "styled-components/native";
+import Slider from "@react-native-community/slider";
+import { Platform, Text, TextInput } from "react-native";
+
+import { connect } from "react-redux";
+
+import CalculatorState from "../../../Arc/CalculatorState";
+ 
+
+// REDUX
+import {
+  changeinsurance,
+  changeexpenses,
+} from "../../../../../redux/actions/actions";
+
+// CONTEXT
+import {
+  c_changeinsuranceslider,
+  c_changeinsurancetext,
+  c_changemonthlyitemizedexpensesslider,
+  c_changemonthlyitemizedexpensestext,
+} from "./../../ExpensesActions";
+
+import appColors from "../../../../../config/colors";
+
+import { StateContext, DispatchContext } from "../../ExpensesDetailContext";
+
+const select = (state, props) => ({
+  calculatorUIData: state.calculatorUIData,
+});
+
+const InsuranceSlider = (props) => {
+  const { calculatorUIData } = props;
+
+  const dispatch = useDispatch();
+
+  const { cstate } = useContext(StateContext);
+  const { cdispatch } = useContext(DispatchContext);
+
+  let {
+    insurancetext,
+    insuranceslider,
+    insurance_editable,
+    monthlyitemizedexpensestext,
+    monthlyitemizedexpensesslider,
+  } = cstate;
+
+  let [slidingInProgress, setSlidingInProgress] = useState(false);
+  let [initialTotalValue, setInitialTotalValue] = useState(0);
+  let [initialItemValue, setInitialItemValue] = useState(0);
+
+  
+
+  //  insurance
+
+  const changeValue = (value) => {
+    if (!slidingInProgress) {
+      // // console.log("INSURANCE !!!  - INITIAL ITEMS SET")
+      // // console.log("monthlyitemizedexpensesslider ", monthlyitemizedexpensesslider )
+      // // console.log("insuranceslider",  insuranceslider)
+
+      setInitialTotalValue(Number(monthlyitemizedexpensesslider));
+      setInitialItemValue(Number(insuranceslider));
+
+      let x = null
+
+     
+         
+        // tested and works. 
+        analytics()
+        .logEvent("insuranceslider01", {
+          id: 60000002,
+          event: "moved the insurance slider",
+          description: "moved the insurance slider",
+        })
+        // .then((response) => // // console.log("#911 response is ", response))
+        .catch((err) =>  console.log(err))
+      
+    
+
+    }
+
+    setSlidingInProgress(true);
+
+    cdispatch(c_changeinsuranceslider(value));
+    dispatch(changeinsurance(value));
+    // // console.log("111")
+
+    //// // console.log("initial total value " + String(initialTotalValue));
+    //// // console.log("initial item value " + String(initialItemValue));
+    // // console.log("insurance value " + String(value));
+
+    // positive direction 
+    if (value > initialItemValue) {
+      let difference = value - initialItemValue;
+      //// // console.log("growing diff" + String(difference));
+      if (Number(initialTotalValue + difference) <= CalculatorState.grossIncomeRange / 2) {
+        // // console.log("1a")
+        // // console.log("initialTotalValue " + initialTotalValue)
+        // // console.log("initialItemValue " + initialItemValue)
+        // // console.log("insuranceslider now",  insuranceslider)
+        // // console.log("value " + value)
+        // // console.log("difference " + difference)
+        cdispatch(
+          c_changemonthlyitemizedexpensesslider(initialTotalValue + difference)
+        );
+        cdispatch(
+          c_changemonthlyitemizedexpensestext(initialTotalValue + difference)
+        );
+        dispatch(changeexpenses(initialTotalValue + difference));
+      } else {
+        // // console.log("1b")
+        cdispatch(
+          c_changemonthlyitemizedexpensesslider(initialTotalValue)
+        );
+        cdispatch(
+          c_changemonthlyitemizedexpensestext(initialTotalValue)
+        );
+        dispatch(changeexpenses(initialTotalValue));
+        
+        cdispatch(c_changeinsuranceslider(initialItemValue));
+        cdispatch(c_changeinsurancetext(initialItemValue));
+        dispatch(changeinsurance(initialItemValue));
+      }
+    }
+
+    // negative direction 
+    if (initialItemValue > value) {
+      let difference = initialItemValue - value;
+      //// // console.log("shrinking diff" + String(difference));
+      if (Number(initialTotalValue - difference) > 0) {
+        // // console.log("2a")
+        cdispatch(
+          c_changemonthlyitemizedexpensesslider(initialTotalValue - difference)
+        );
+        cdispatch(
+          c_changemonthlyitemizedexpensestext(initialTotalValue - difference)
+        );
+        dispatch(changeexpenses(initialTotalValue - difference));
+        // // console.log("initialTotalValue " + initialTotalValue)
+        // // console.log("initialItemValue " + initialItemValue)
+        // // console.log("value " + value)
+        // // console.log("difference " + difference)
+      } else {
+        // // console.log("2b")
+        cdispatch(
+          c_changemonthlyitemizedexpensesslider(0)
+        );
+        cdispatch(
+          c_changemonthlyitemizedexpensestext(String(0))
+        );
+        dispatch(changeexpenses(0));
+        cdispatch(c_changeinsuranceslider(0));
+        cdispatch(c_changeinsurancetext(0));
+        dispatch(changeinsurance(0));
+      }
+    }
+
+    
+  };
+
+  const slidingComplete = (value: number) => {
+    setSlidingInProgress(false);
+
+    // cdispatch(c_changeinsuranceslider(value));
+    // dispatch(changeinsurance(value));
+
+    // //// // console.log("initial value " + String(initialValue));
+    // //// // console.log("value " + String(value));
+
+    // if (value > initialValue) {
+    //   // difference, not the actual value
+    //   cdispatch(c_changemonthlyitemizedexpensesslider(initialValue + value));
+    //   cdispatch(c_changemonthlyitemizedexpensestext(initialValue + value));
+    //   dispatch(changeexpenses(initialValue + value));
+    // }
+    // if (initialValue > value) {
+    //   // difference, not the actual value.
+    //   cdispatch(c_changemonthlyitemizedexpensesslider(initialValue - value));
+    //   cdispatch(c_changemonthlyitemizedexpensestext(initialValue - value));
+    //   dispatch(changeexpenses(initialValue - value));
+    // }
+
+    async () =>
+      await analytics().logEvent("calculator", {
+        id: 6000000x,
+        event: "slider-insurance",
+        description: ["used insurance slider", { value }],
+      });
+  };
+
+  const getBoolEditableValue = () => {
+    // // //// // console.log("get cleaned number");
+
+    let editable: boolean = insurance_editable;
+    ////// // console.log("getBoolEditableValue insurance: " + String(editable))
+    return editable;
+  };
+
+  useEffect(() => {
+    // init react context from redux
+    cdispatch(c_changeinsuranceslider(calculatorUIData.insurance));
+  }, []);
+
+  return (
+    <ViewContainer>
+      <SliderWrapper>
+        <Slider
+          disabled={getBoolEditableValue()}
+          minimumValue={0}
+          maximumValue={CalculatorState.grossIncomeRange / 10}
+          style={{ width: 350, height: 40 }}
+          step={10}
+          minimumTrackTintColor={appColors.brandColor}  
+          maximumTrackTintColor={appColors.keyboardGray}
+          thumbTintColor={Platform.select({
+            android: appColors.keyboardGray,
+          })}
+          value={insurancetext} // set by text input
+          onValueChange={(value) => changeValue(value)}
+          onSlidingComplete={(value) => slidingComplete(value)}
+        />
+      </SliderWrapper>
+    </ViewContainer>
+  );
+};
+
+// the backwards tick (the grave accent character) is an ES6 Javascript template literal
+
+export default connect(select)(InsuranceSlider);
+
+const slidingStart = (value: number) => {};
+
+const SliderWrapper = styled.View`
+  margin: 0px;
+  height: 40px;
+  justify-content: center;
+`;
+//this controls je
+
+const ViewContainer = styled.View`
+  padding-left: 10px;
+`;
+const LabelWrapper = styled.View`
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0px;
+`;
+
+const LabelText = styled.Text`
+  font-size: 20px;
+`;
+
+const SliderHeader = styled.Text`
+  color: blue;
+`;

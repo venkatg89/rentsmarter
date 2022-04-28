@@ -1,0 +1,239 @@
+
+      // first pass at the logic here
+
+      
+      let multiplier = initialCellpItemValue / positivebucket;
+      itemsumcell = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      if (itemsumcell > tenthrange) {
+        itemsumcell = tenthrange;
+      }
+      itemsumbucket += itemsumcell;
+
+      multiplier = initialUtiItemValue / positivebucket;
+      itemsumuti = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      if (itemsumuti > tenthrange) {
+        itemsumuti = tenthrange;
+      }
+      itemsumbucket += itemsumuti;
+
+      if (initialInsItemValue > 0) {
+        multiplier = initialInsItemValue / positivebucket;
+        itemsumins = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      } else {
+        itemsumins = part;
+      }
+      if (itemsumins > tenthrange) {
+        itemsumins = tenthrange;
+      }
+      itemsumbucket += itemsumins;
+
+      multiplier = initialSubItemValue / positivebucket;
+      itemsumsub = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      if (itemsumsub > tenthrange) {
+        itemsumsub = tenthrange;
+      }
+      itemsumbucket += itemsumsub;
+
+      multiplier = initialGroItemValue / positivebucket;
+      itemsumgro = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      if (itemsumgro > tenthrange) {
+        itemsumgro = tenthrange;
+      }
+      itemsumbucket += itemsumgro;
+
+      multiplier = initialTraItemValue / positivebucket;
+      itemsumtra = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      if (itemsumtra > tenthrange) {
+        itemsumtra = tenthrange;
+      }
+      itemsumbucket += itemsumtra;
+
+      multiplier = initialOexItemValue / positivebucket;
+      itemsumoex = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+      if (itemsumoex > tenthrange) {
+        itemsumoex = tenthrange;
+      }
+      itemsumbucket += itemsumoex;
+
+      // and now adjustments to make itemized individuals add up to the amount
+      // the user typed in
+
+      if (itemsumbucket != monthlyitemizedexpensesslider) {
+
+        let ldiff = (itemsumbucket - monthlyitemizedexpensesslider) * -1;
+
+        let mdiff = ldiff / 7;
+
+        let itemsumbucketadjusted = 0;
+
+        let newitemsumins = itemsumoex - mdiff;
+        let newitemsumtra = itemsumoex - mdiff;
+        let newitemsumgro = itemsumoex - mdiff;
+        let newitemsumcell = itemsumoex - mdiff;
+        let newitemsumsub = itemsumoex - mdiff;
+        let newitemsumoex = itemsumoex - mdiff;
+
+        while (true) {
+          itemsumbucketadjusted += newitemsumoex;
+          if (itemsumbucketadjusted < monthlyitemizedexpensesslider) {
+            break;
+          }
+
+          break;
+        }
+
+      }
+
+
+      ============
+
+      and this is the negative
+
+         // first come up with a total of all the non-negative values
+
+         let diffcell = initialCellpItemValue - part;
+         if (diffcell < 0) {
+           diffcell = 0;
+         } else {
+           negativebucket += initialCellpItemValue;
+         }
+   
+         let diffutil = initialUtiItemValue - part;
+         if (diffutil < 0) {
+           diffutil = 0;
+         } else {
+           negativebucket += initialUtiItemValue;
+         }
+   
+         let diffins = initialInsItemValue - part;
+         if (diffins < 0) {
+           diffins = 0;
+         } else {
+           negativebucket += initialInsItemValue;
+         }
+   
+         let diffsub = initialSubItemValue - part;
+         if (diffsub < 0) {
+           diffsub = 0;
+         } else {
+           negativebucket += initialSubItemValue;
+         }
+   
+         let diffgro = initialGroItemValue - part;
+         if (diffgro < 0) {
+           diffgro = 0;
+         } else {
+           negativebucket += initialGroItemValue;
+         }
+   
+         let difftra = initialTraItemValue - part;
+         if (difftra < 0) {
+           difftra = 0;
+         } else {
+           negativebucket += initialTraItemValue;
+         }
+   
+         let diffoex = initialOexItemValue - part;
+         if (diffoex < 0) {
+           diffoex = 0;
+         } else {
+           negativebucket += initialOexItemValue;
+         }
+   
+         // then for each field
+         // if the value isn't equal to zero
+         // transform the value into a proportionate percentage of the total entered
+         // in mex text input by user
+         // otherwise just post a zero
+   
+         if (diffcell > 0) {
+           let multiplier = initialCellpItemValue / negativebucket;
+           itemsumcell = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumcell = 0;
+         }
+         itemsumbucket += itemsumcell;
+   
+         if (diffutil > 0) {
+           let multiplier = initialUtiItemValue / negativebucket;
+           itemsumuti = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumuti = 0;
+         }
+         itemsumbucket += itemsumuti;
+   
+         if (diffins > 0) {
+           let multiplier = initialInsItemValue / negativebucket;
+           itemsumins = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumins = 0;
+         }
+         itemsumbucket += itemsumins;
+   
+         if (diffsub > 0) {
+           let multiplier = initialSubItemValue / negativebucket;
+           itemsumsub = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumsub = 0;
+         }
+         itemsumbucket += itemsumsub;
+   
+         if (diffgro > 0) {
+           let multiplier = initialGroItemValue / negativebucket;
+           itemsumgro = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumgro = 0;
+         }
+         itemsumbucket += itemsumgro;
+   
+         if (difftra > 0) {
+           let multiplier = initialTraItemValue / negativebucket;
+           itemsumtra = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumtra = 0;
+         }
+         itemsumbucket += itemsumtra;
+   
+         if (diffoex > 0) {
+           let multiplier = initialOexItemValue / negativebucket;
+           itemsumoex = Math.ceil(monthlyitemizedexpensesslider * multiplier * 1);
+         } else {
+           itemsumoex = 0;
+         }
+         itemsumbucket += itemsumoex;
+   
+         let ldiff = (monthlyitemizedexpensesslider - itemsumbucket) * -1;
+   
+         // adjust for make sure individual itemized expenses total to match Mex
+         do {
+           if (itemsumoex > 0) {
+             itemsumoex = itemsumoex - ldiff;
+             break;
+           }
+           if (itemsumcell > 0) {
+             itemsumcell = itemsumcell - ldiff;
+             break;
+           }
+           if (itemsumsub > 0) {
+             itemsumsub = itemsumsub - ldiff;
+             break;
+           }
+           if (itemsumtra > 0) {
+             itemsumtra = itemsumtra - ldiff;
+             break;
+           }
+           if (itemsumuti > 0) {
+             itemsumuti = itemsumuti - ldiff;
+             break;
+           }
+           if (itemsumgro > 0) {
+             itemsumgro = itemsumgro - ldiff;
+             break;
+           }
+           if (itemsumins > 0) {
+             itemsumins = itemsumins - ldiff;
+             break;
+           }
+   
+           break;
+         } while (true);

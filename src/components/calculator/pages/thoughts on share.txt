@@ -1,0 +1,14 @@
+thoughts on share.txt
+
+using standard share API, test on iOS too.
+
+as far as saving files, options:
+
+1. redux persist
+2. database
+3. file system
+
+with redux the issue is multiple files ... 
+
+is there a fourth way?
+

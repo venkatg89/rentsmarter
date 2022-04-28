@@ -1,0 +1,37 @@
+getSizeSeekBar = (event) => {
+    this.setState({widthSeekBar: event.nativeEvent.layout.width})
+    console.log('size', event.nativeEvent.layout)
+  }
+
+          
+            ====
+            exclude in open editor find replace for 8082 to 8082
+            don't forget to hit open editors icon.
+
+            =====
+
+            
+=====
+1- Create a file named react-native.config.js in the root folder of your project.
+
+2- add this in that new file
+
+module.exports = {
+project: {
+    ios: {},
+    android: {},
+},
+assets: ['./assets/fonts']
+};
+3- run react-native link command in the root project path.
+
+PS Make sure you have the right path for the fonts folder before running react-native link command
+=====
+
+NEXT STEP
+kill all interactions on pay deductions slider, test on that
+why is decrement screwed up but increment seems to work
+
+// two problems
+increment range not working
+fields zeroing out

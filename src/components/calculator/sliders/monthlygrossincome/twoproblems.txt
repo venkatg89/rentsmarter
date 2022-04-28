@@ -1,0 +1,7 @@
+1 initial redux state (NaN, undefined)
+
+2 filtering out non numeric characters
+a regex obviously, but what's the syntax
+
+3 thought on ranges - should everything have a range or just gross income, 
+and everything else be a percentage from that?

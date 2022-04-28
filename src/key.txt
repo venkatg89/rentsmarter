@@ -1,0 +1,19 @@
+iOS                         React Native
+segment1End             arc_segment_1_end01     
+1 rent amount
+2 expenses
+3 deductions 
+4 debt
+5 savings
+6 leftover 
+
+
+
+    Redux State:
+    ===========
+    calculatorUIData: calculatorUIReducer,
+    calculatorCalculationsData: calculatorCalculationsReducer // this may not be needed 
+    arcData: arcReducer,
+
+    this is where the data lives
+    you get it with a select from state

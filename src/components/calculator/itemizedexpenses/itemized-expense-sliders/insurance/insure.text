@@ -1,0 +1,125 @@
+
+const InsuranceSlider = (props) => {
+  const { calculatorUIData } = props;
+
+  const dispatch = useDispatch();
+
+  const { cstate } = useContext(StateContext);
+  const { cdispatch } = useContext(DispatchContext);
+
+  let {
+    insurancetext,
+    insuranceslider,
+    insurance_editable,
+    monthlyitemizedexpensestext,
+    monthlyitemizedexpensesslider,
+  } = cstate;
+
+  let [firstTimeThrough, setFirstTimeThrough] = useState(true);
+  let [initialTotalValue, setInitialTotalValue] = useState(0);
+  let [initialItemValue, setInitialItemValue] = useState(0);
+
+  //  insurance
+
+  const changeValue = (value) => {
+    if (firstTimeThrough) {
+      setFirstTimeThrough(false);
+    } else {
+      cdispatch(c_changeinsuranceslider(value));
+
+      if (value > initialItemValue) {
+        positiveSliderMove(value, initialItemValue);
+      }
+
+      if (initialItemValue > value) {
+        negativeSliderMove(value, initialItemValue);
+      }
+    }
+  };
+
+  const positiveSliderMove = (value, beginSlideValue) => {
+    let diff = value - beginSlideValue;
+
+    // set the MEX
+    cdispatch(c_changemonthlyitemizedexpensesslider(initialTotalValue + diff));
+    dispatch(changeexpenses(initialTotalValue + diff));
+
+    // now adjust the value to limits
+  };
+
+  const negativeSliderMove = (value, beginSlideValue) => {
+    let diff = beginSlideValue - value;
+
+    // set the MEX
+    cdispatch(c_changemonthlyitemizedexpensesslider(initialTotalValue - diff));
+    dispatch(changeexpenses(initialTotalValue - diff));
+
+    // now adjust the value to limits
+  };
+
+  const slidingStart = (value: number) => {
+    setFirstTimeThrough(true);
+
+    setInitialTotalValue(Number(monthlyitemizedexpensesslider));
+    setInitialItemValue(Number(insuranceslider));
+  };
+
+  const slidingComplete = (value: number) => {
+    cdispatch(c_changeinsuranceslider(value));
+
+    if (value > initialItemValue) {
+      positiveSliderMove(value, initialItemValue);
+    }
+
+    if (initialItemValue > value) {
+      negativeSliderMove(value, initialItemValue);
+    }
+
+    async () =>
+      await analytics().logEvent("calculator", {
+        id: 6000000x,
+        event: "slider-insurance",
+        description: ["used insurance slider", { value }],
+      });
+
+    setFirstTimeThrough(true);
+  };
+
+  const getBoolEditableValue = () => {
+    let editable: boolean = insurance_editable;
+
+    return editable;
+  };
+
+  useEffect(() => {
+    // init react context from redux
+    cdispatch(c_changeinsuranceslider(calculatorUIData.insurance));
+  }, []);
+
+  return (
+    <ViewContainer>
+      <SliderWrapper>
+        <Slider
+          disabled={getBoolEditableValue()}
+          minimumValue={0}
+          maximumValue={CalculatorState.grossIncomeRange / 10}
+          style={{ width: 350, height: 40 }}
+          step={10}
+          minimumTrackTintColor={appColors.brandColor}  
+          maximumTrackTintColor={appColors.keyboardGray}
+          thumbTintColor={Platform.select({
+            android: appColors.keyboardGray,
+          })}
+          value={insurancetext} // set by text input
+          onValueChange={(value) => changeValue(value)}
+          onSlidingStart={(value) => slidingStart(value)}
+          onSlidingComplete={(value) => slidingComplete(value)}
+        />
+      </SliderWrapper>
+    </ViewContainer>
+  );
+};
+
+// the backwards tick (the grave accent character) is an ES6 Javascript template literal
+
+export default connect(select)(InsuranceSlider);

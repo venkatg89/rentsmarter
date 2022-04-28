@@ -1,0 +1,121 @@
+
+The Rent Smarter app uses 3 means to store persist State in React Native.
+
+=============================================
+
+
+1 UseState, a means of persisting data between page refreshs of a react Native Component
+
+React is declarative and stateless. If you save a value in a variable, it will be gone 
+on the next refresh. So how do you get data to survive on page recycles? useState.
+
+           app
+            |
+   a  -----------   d
+-----             ------
+|    |            |     |
+b    c            e     f
+
+if you use useState to save state in a, then it is only available in a UNLESS you pass it down to
+a component as a parameter. as in:
+
+let a = () => { 
+    let [myVar, setMyVar] = useState(0);
+    b(myVar)
+}
+
+if you use useState to save state in b, then it is only available in b.
+
+Note: initializing useState data from a redux persisted store is a great way to show the last time
+you saved state in your app. 
+
+=============================================
+
+
+2 React Context, a means of persisting data from component parent to children; so, good for
+persistence in a SECTION of the app. Say you have
+
+           app
+            |
+   a  -----------   d
+-----             ------
+|    |            |     |
+b    c            e     f
+
+a
+|
+b  c d e f  g  h 
+
+if your React Context persistence is in view a, then it will be persisted down to b and c, 
+but not to e or f.
+
+if you change something in b, and save it to the context created in a, it will be available in 
+c as well - but NOT in d,e,f.
+
+(This works like Environment in SwiftUI)
+
+Context is part of Core React and replaces much of what open source third party Redux 
+was originally intended to be used for.
+
+NOTE: I learned about Context well after I learned about useState and Redux, so there are many
+places in the app where I use redux where, if I were writing it now, I would use Context.
+
+ANOTHER NOTE: I learned to use Context because performance on the calculator was so poor when I
+was using redux, possibly because of persistence to disk.
+
+
+-------------------------
+
+3 React Redux, a means of persisting data across the whole app
+
+           index.js, app.tsx
+            |
+   a  -----------   d
+-----             ------
+|    |            |     |
+b    c            e     f
+
+
+when you define a redux store in the app (in index.js and app.tsx) then you can persist data
+from any view in the app. Why not just use this? because the reducer and action handlers can become
+enormous and inefficient. Also, that's just not how people use Redux in 2022.
+
+However, it turns out this is a great way to persist app data. Using redux persist, you can
+easily save data to your redux store from anywhere in your app, and it's persisted instantly to
+storage on the phone. 
+
+Also, redux has great middleware capability. more on that later.
+
+
+================================================
+
+functions and reducers.
+
+something about this.
+
+================================================
+
+redux middleware.
+
+
+
+==================
+
+FORM 1 Android app == React Native Navigation == 
+React Native pages and components + node modules + some native components such as slider
+
+whats the problem?
+problem is native frameworks such as the virtual assistant
+
+native frame work written in java, install it in react native navigation written in tsx
+bridging
+a you may not have to access to framework source code
+b the writers of framework probably never envisioned use in react native app
+
+FORM 2 Android app == Android java navigation == 
+React Native pages and components + node modules + some native components such as slider
+
+
+Android Studio 4.0.1
+Visual Studio Code 
+yarn 1.22.15

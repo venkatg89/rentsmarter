@@ -1,0 +1,3209 @@
+{"data": [
+    {
+        "Roof": [
+            "Barrel"
+        ],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "aaa85f24febf39815fa47065cf1b0376750ee576",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3573783660r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:14.000Z"
+            },
+            {
+                "MediaKey": "5bb70e810d1d83bb743e0111c156b3e34c8a7709",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1866243452r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:14.000Z"
+            },
+            {
+                "MediaKey": "f9bab7637e4dd76a9d18ce0b46ef1d7ba26f457b",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1435217484r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:15.000Z"
+            },
+            {
+                "MediaKey": "7c09d98bc14345ffc7da1945ee4d8d4c2a1a7493",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f2176978246r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:16.000Z"
+            },
+            {
+                "MediaKey": "1af91cfd93f37f3bf80aac5d00dc7f33a894db17",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3128206337r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:16.000Z"
+            },
+            {
+                "MediaKey": "4cbe396ded58f8dc912b9656ff67a3b96f061ea4",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3207310507r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:17.000Z"
+            },
+            {
+                "MediaKey": "9eafd013c8f7ba9619e821e8c48e5b3dc1a948e6",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1374943082r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:17.000Z"
+            },
+            {
+                "MediaKey": "402bc10a701091bc8db8aa43b952e0f232718d03",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f731794737r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:18.000Z"
+            },
+            {
+                "MediaKey": "c54cc9f92541a5b9659d6c1823a127a300a05fd3",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1784959129r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:19.000Z"
+            },
+            {
+                "MediaKey": "98c6839fb0dfbc7d8314ee24f8b6b2d64d28fd1b",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1381072163r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:06.000Z"
+            },
+            {
+                "MediaKey": "c7baad93ec5f477c220fb3dd48e309e511ff868b",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f4242820917r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:07.000Z"
+            },
+            {
+                "MediaKey": "dfbd3031dc41d97f11816f2eeefab4cade641963",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3510616142r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:08.000Z"
+            },
+            {
+                "MediaKey": "ed2ffe06317b30fa896d73e558b7afdb9cc82e82",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f2897192310r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:08.000Z"
+            },
+            {
+                "MediaKey": "a1235fd39631ed836f50b23b26121469ca5e095e",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f138013354r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:09.000Z"
+            },
+            {
+                "MediaKey": "6e462a81730838bca114e31126c7125ff8ab22d0",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f2920950050r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:09.000Z"
+            },
+            {
+                "MediaKey": "d6f1b2c520f781d493de6b5e1e417291a48b9ad2",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f285818727r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:10.000Z"
+            },
+            {
+                "MediaKey": "b091eed59869e23b5de3a266e361c01bdd054256",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1126551280r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:11.000Z"
+            },
+            {
+                "MediaKey": "1fbc19ad6fb5e93eb3ce9017e0aafbc99e2ae098",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f359930138r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:11.000Z"
+            },
+            {
+                "MediaKey": "d293d76d3758f259826d71f0c618a39191d434cd",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f440024199r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:12.000Z"
+            },
+            {
+                "MediaKey": "b392bb1b4bd352cf2ff887bfd1b580d95fe7bde9",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f10164805r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:06.000Z"
+            },
+            {
+                "MediaKey": "0a2cb51a7cc5aee8af275a003a84ae3e8215bd48",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f2556924459r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:07.000Z"
+            },
+            {
+                "MediaKey": "46069a702405d657224d06fa371fad22a549c51f",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f2692896248r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:07.000Z"
+            },
+            {
+                "MediaKey": "2beaf9038c756a6c957ea0c1c98f2d744424f317",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f134856166r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:08.000Z"
+            },
+            {
+                "MediaKey": "a025ba27f4502a52746348690b97366cb94f5627",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f456801766r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:09.000Z"
+            },
+            {
+                "MediaKey": "c6a81d887aa694ce509d43cc9c56a6bed9ab6eb6",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f1084711926r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:09.000Z"
+            },
+            {
+                "MediaKey": "85edcdd78f5b5c778015fb07b79156b612182634",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3556183904r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:10.000Z"
+            },
+            {
+                "MediaKey": "012342205a6f79da60d1457aa4d1a86429ea3dd8",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3000329541r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:10.000Z"
+            },
+            {
+                "MediaKey": "336233b0d1cc9160f936f72aeab767d56eec4df7",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f656456575r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:11.000Z"
+            },
+            {
+                "MediaKey": "d5c2beabe132604f5160d03ffa9f4eaef6070717",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f3702941635r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:12.000Z"
+            },
+            {
+                "MediaKey": "5e7fc66336c241c46f343f6ca6407f8ef50075b6",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f910757499r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:06.000Z"
+            },
+            {
+                "MediaKey": "39e2f80c1161135d8fecfe1f2b7e9ffd00650c84",
+                "MediaURL": "http://lh.rdcpix.com/cda5a37290f49086993d801857371591l-f48102402r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-13T02:52:07.000Z"
+            },
+            {
+                "MediaKey": "420e23e4f6893f18a421c4e2e3f304a03fcd3fbb",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11097139",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-13T02:52:19.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [
+            "Vinyl"
+        ],
+        "Location": null,
+        "ListPrice": 3500.0,
+        "ListingId": "A11097139",
+        "OpenHouse": [],
+        "Utilities": [],
+        "YearBuilt": 1969,
+        "Appliances": [
+            "Dishwasher",
+            "Dryer",
+            "Microwave",
+            "Washer"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11097139",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.16,
+        "PhotosCount": 31,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 75,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Keyes Company Realtors",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/10611-NW-6th-Ave_Miami_FL_33150_M56453-28371?f=listhub&s=MAORFL&m=A11097139&c=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "keyes226@keyes.com",
+            "LeadRoutingEmail": "cipriano_agreda@hotmail.com",
+            "ListBrokerageCity": "Miami",
+            "ListBrokerageName": "Keyes Company Realtors",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "mikepappas@keyes.com",
+            "ListOfficeAddress1": "9731 NW 41 ST",
+            "ListBrokerageCountry": "US",
+            "ListBrokerageLogoUrl": "http://brokerlogos.listhub.net/MAORFL/fdbeb171cd6811dfa0e900219b994c72/20110411230215372.png",
+            "ListOfficePostalCode": "33178",
+            "ListOfficeBrokerMlsId": "329075L",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33129",
+            "ListBrokerageUnitNumber": "Suite 200",
+            "ListBrokerageWebsiteUrl": "http://www.keyes.com",
+            "MLSModificationTimestamp": "2021-11-23T05:15:28.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "2121 SW 3rd Ave"
+        },
+        "ListAgentKey": "3yd-MAORFL-3416567",
+        "ListAgentURL": "http://www.keyes.com",
+        "LotSizeAcres": 0.16,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "30-21-36-030-0050",
+        "ParkingTotal": 3,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 3,
+        "ListOfficeKey": "3yd-MAORFL-KEYE80",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Amazing home within the Miami-Shores desirable area!!Completely renovated, and well designed to the last detail. Tiled throughout, Elegant white kitchen with granite countertops and stainless steel appliances. Bright rooms. Spacious dining room, Florida room and a utility room. A real paradise in the HUGE backyard, mango trees shading a beautiful wood deck, outdoor dining, and hammock.  patio perfect for entertaining with plenty of space for a pool. Close to the beach thru 123rd St directly to Bal Harbour, various school options, close to Barry University, airport, shops, supermarkets and more. Highly desirable location with close proximity to the expressways and downtown Miami Shores. Furnished also available! SHOWINGS WITH PREVIOUS APPOINTMENTS.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "cipriano_agreda@hotmail.com",
+        "ListAgentMlsId": "3416567",
+        "ListOfficeName": "The Keyes Company",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "KEYE80",
+        "ListOfficePhone": "3055942120",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "YEATMAN SUB",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "10611 NW 6th Ave",
+        "ExteriorFeatures": [
+            "Deck",
+            "Fruit Trees",
+            "Exterior Lighting",
+            "Patio",
+            "Room For Pool"
+        ],
+        "InteriorFeatures": [
+            "First Floor Entry",
+            "Dishwasher",
+            "Dryer",
+            "Intercom",
+            "Microwave"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Cipriano Agreda",
+        "ListAgentLastName": "Agreda",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Cipriano",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-09-14",
+        "TaxLegalDescription": "YEATMAN SUB PB 4-163 LOT 5 BLK 1 LOT SIZE 50.000 X 141 OR 18080-1307 0398 1 COC 21870-0882 11 2003 6",
+        "ListAgentOfficePhone": "3055942120",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [
+            "Block",
+            "Concrete"
+        ],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-11-23T06:24:12.000Z",
+        "PatioAndPorchFeatures": [
+            "Patio",
+            "Deck"
+        ],
+        "PhotosChangeTimestamp": "2021-11-13T02:52:19.000Z",
+        "ListAgentPreferredPhone": "7864898065",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": false
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "d5a3075bc6b6e1bdaf8f820adcffaa60f01a84d0",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f821897428r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:55.000Z"
+            },
+            {
+                "MediaKey": "ae7b3e8d44d23b573a4446c954a3ad11c5c5c55f",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2927860152r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:50.000Z"
+            },
+            {
+                "MediaKey": "719e4bcb8705db37c5dcea658c369f7e4295351b",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2002444460r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:51.000Z"
+            },
+            {
+                "MediaKey": "b4b9c74af64e2145ab7e695a55d25bc7b8eb7f56",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f325227525r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:52.000Z"
+            },
+            {
+                "MediaKey": "7bf7573dcf7409db50dfb70147c85075a71c4f56",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f3282855773r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:52.000Z"
+            },
+            {
+                "MediaKey": "f96436068e1e0c6d774e559a2ac8d5ac0ef123b9",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2019795689r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:53.000Z"
+            },
+            {
+                "MediaKey": "1d08c684b2085cd6ab38f3de6b29fd30294ac8b6",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f587466043r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:53.000Z"
+            },
+            {
+                "MediaKey": "2c2f3a6bad9a6df0031ed48a420e734c28fa69b1",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f1797916032r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:54.000Z"
+            },
+            {
+                "MediaKey": "ddb806cbcaeb4af229856cab85d571992af16ed5",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2598988155r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:55.000Z"
+            },
+            {
+                "MediaKey": "c8da7a3b0b585344e76796d780270121a86b83fc",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f998474932r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:55.000Z"
+            },
+            {
+                "MediaKey": "0393c2a5e843c52de81418dd78a0b268e03f6c57",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f1268280439r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:56.000Z"
+            },
+            {
+                "MediaKey": "e86dc8c659fecc5ff98e9f9103caef6813984e99",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f1045892136r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:50.000Z"
+            },
+            {
+                "MediaKey": "3462cbc0fe7299880f3a3b811dafb1aef0ba3b93",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f3520510922r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:51.000Z"
+            },
+            {
+                "MediaKey": "a9d95d9f81c2f2e7f81565312b1c9047cc2a9a32",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f3440323565r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:52.000Z"
+            },
+            {
+                "MediaKey": "3c1ac7c2148249458ca49f18b61e6dc398cdbe2d",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2280571911r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:52.000Z"
+            },
+            {
+                "MediaKey": "fc36e74189f4795f3b6671f2a50b411bca6b4a7d",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2290857418r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:53.000Z"
+            },
+            {
+                "MediaKey": "f42c424cd7c4fc95d5f85b9240a22b4a33f4f9ac",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f470621182r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:54.000Z"
+            },
+            {
+                "MediaKey": "c5e5e4ab8cd880554aa7f974f8b35d9cc6f265fb",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f808716873r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:54.000Z"
+            },
+            {
+                "MediaKey": "2c0d24923e769c0b3ad2478a9d81ed9647b3e959",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2458343575r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:55.000Z"
+            },
+            {
+                "MediaKey": "a020e92d686bee15b16903dac794852d866f8466",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f2343867542r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:55.000Z"
+            },
+            {
+                "MediaKey": "fe4c2e397eb6dc4663147ffd63739baace55c673",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f3571044590r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:56.000Z"
+            },
+            {
+                "MediaKey": "b26131131f03af1d587312814fa47c0e1c7711a9",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f1770576923r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:39.000Z"
+            },
+            {
+                "MediaKey": "ef3444db0c0a1e82ca94f473cf09d5f94936df56",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f104708970r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:40.000Z"
+            },
+            {
+                "MediaKey": "ff60405457c5f3c5f76dbf797ac1b07041b33f5c",
+                "MediaURL": "http://lh.rdcpix.com/c4271c32b9b060b180032cd6143b3a4cl-f4158215633r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:41:41.000Z"
+            },
+            {
+                "MediaKey": "db5e7a5ea571a1947107e497897d3d0f822e208b",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11109402",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-08T20:41:56.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [],
+        "Latitude": 25.866955,
+        "Location": [
+            -80.202698,
+            25.866955
+        ],
+        "ListPrice": 5200.0,
+        "ListingId": "A11109402",
+        "Longitude": -80.202698,
+        "OpenHouse": [],
+        "Utilities": [],
+        "YearBuilt": 1946,
+        "Appliances": [],
+        "Directions": "From I-95, take exit 8A, drive east onto 95th St., turn north onto NW 2nd St, turn west onto NW 100 Te.  The house is on your left hand side.",
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11109402",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "242",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.12,
+        "PhotosCount": 24,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 100,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Global Luxury Realty, LLC",
+            "ListingURL": "https://listings.listhub.net/pages/MAORFL/A11109402/?channel=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami Beach",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "bill@1glr.com",
+            "LeadRoutingEmail": "realtormina@gmail.com",
+            "ListBrokerageCity": "Miami Beach",
+            "ListBrokerageName": "Global Luxury Realty, LLC",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "Bill@1glr.com",
+            "ListOfficeAddress1": "1688 Meridian Ave",
+            "ListOfficeAddress2": "Suite 700",
+            "ListBrokerageCountry": "US",
+            "ListBrokerageLogoUrl": "http://brokerlogos.listhub.net/140/284403/20150123152847723.png",
+            "ListOfficePostalCode": "33139",
+            "ListOfficeBrokerMlsId": "3427824",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33139",
+            "MLSModificationTimestamp": "2021-12-24T13:14:31.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "1111 Lincoln Rd Suite 400"
+        },
+        "ListAgentKey": "3yd-MAORFL-3245819",
+        "LotSizeAcres": 0.12,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "30-31-01-006-0360",
+        "ParkingTotal": 3,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 3,
+        "ListOfficeKey": "3yd-MAORFL-BGAR01",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "This tropical Zen inspired compound is made of a main house that has 2 BR 1 Bath and 1 BR 1 BATH cottage, totaling 3 BR and 2 BATH. The main house is surrounded by beautiful wooden outdoor sitting areas. The tropical backyard leads to a private cottage that has a kitchenette, built in desk, bookcase and a sitting area. Completely gated for a perfect privacy.  Enjoy your favorite tropical drink in a lush tropical garden that is totally private.  Property is centrally located and about 20 minutes ride from Miami International Airport, about 20 minutes driving to beaches, Design District, Wynsood , Aventura and downtown Miami.  Short term rental is available for $6,500/mo furnished, including all the utilities, yard maintenance.  Furniture can be removed upon request for annual lease.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "realtormina@gmail.com",
+        "ListAgentMlsId": "3245819",
+        "ListOfficeName": "Global Luxury Realty LLC",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "BGAR01",
+        "ListOfficePhone": "3059689442",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [
+            "Carport"
+        ],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "GENEVA GARDENS",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "242 NW 100th Ter",
+        "ExteriorFeatures": [],
+        "InteriorFeatures": [],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Mina Kuhn LLC",
+        "ListAgentLastName": "Kuhn LLC",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Mina",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-10-07",
+        "TaxLegalDescription": "GENEVA GARDENS PB 39-52 LOT 6 BLK 4 LOT SIZE 47.520 X 108 OR 17656-0611 0597 1 COC 25809-0733 07 2007 1",
+        "ListAgentOfficePhone": "3059689442",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-12-29T20:17:20.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2021-11-08T20:41:56.000Z",
+        "ListAgentPreferredPhone": "3057813110",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": false,
+        "InternetAutomatedValuationDisplayYN": false
+    },
+    {
+        "Roof": [
+            "Shingle"
+        ],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "c5af90f77b4ce4f246d168152e31cdadd30d38d9",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f2289562482r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:14.000Z"
+            },
+            {
+                "MediaKey": "95c04278ce43c1d16eb837c9c07aeb4e0f5d2277",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f2336616404r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:14.000Z"
+            },
+            {
+                "MediaKey": "d737b571febb05855f640e52c81197604b6ef88f",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f4053844501r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:15.000Z"
+            },
+            {
+                "MediaKey": "bcb5e5bf0c3152a77efe37657fb887e4dc647d99",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f668851140r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:15.000Z"
+            },
+            {
+                "MediaKey": "269bd0c5c6a7b39682d99f636712a400af83bfed",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f1989628553r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:16.000Z"
+            },
+            {
+                "MediaKey": "d3fbc25a72148998bec17647221674f788191f04",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f2422432036r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:16.000Z"
+            },
+            {
+                "MediaKey": "68fe97b2cfe92353ccb0e4fe25ae9aecb3b6c346",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f4151638856r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:17.000Z"
+            },
+            {
+                "MediaKey": "2cd56c0eb44eeec74377fda0e48e21c7a2a38d04",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f3445887194r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:11.000Z"
+            },
+            {
+                "MediaKey": "ade729f3a692558fc37d44746d65e7bc1f348bdb",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f903390387r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:12.000Z"
+            },
+            {
+                "MediaKey": "ad2fcaa2afa61e2dd0304779ee677b2cfc6e8504",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f3130487819r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:12.000Z"
+            },
+            {
+                "MediaKey": "f1f06aa9e278df74ee8b34a42648ce2ca6080a7e",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f898216753r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:13.000Z"
+            },
+            {
+                "MediaKey": "e11cb8031c245858b03c3f7961563c55bf8efd32",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f524828880r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:13.000Z"
+            },
+            {
+                "MediaKey": "99cf871e86309a8d7af7a34df363e7bced7b143e",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f1152254999r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:14.000Z"
+            },
+            {
+                "MediaKey": "c58724112ec8ecdf6e98bb2722d88cc902931d02",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f3262797140r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:14.000Z"
+            },
+            {
+                "MediaKey": "bb952c853cbef2ff268818228c5f3c8aca9fafd5",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f1732449946r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:15.000Z"
+            },
+            {
+                "MediaKey": "fe659629b4a80455c94899a93bca35b33ce441cb",
+                "MediaURL": "http://lh.rdcpix.com/0d41ee68c43edded9a92550663c5a1c7l-f4245720913r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-08T20:44:15.000Z"
+            },
+            {
+                "MediaKey": "ac9d63edb0305af069ad51dd765bb77de71c9dc9",
+                "MediaURL": "https://app.immoviewer.com/landing/unbranded/618a5dfceab67d0a0f2abdf9",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-08T20:44:17.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Kitchen",
+            "Laundry"
+        ],
+        "SpaYN": false,
+        "Cooling": [
+            "Ceiling Fan(s)",
+            "Window Unit(s) A/C"
+        ],
+        "Country": "US",
+        "Fencing": [
+            "Fenced"
+        ],
+        "Heating": [],
+        "Flooring": [
+            "Tile"
+        ],
+        "Latitude": 25.843551,
+        "Location": [
+            -80.197074,
+            25.843551
+        ],
+        "ListPrice": 2200.0,
+        "ListingId": "A11121906",
+        "Longitude": -80.197074,
+        "OpenHouse": [],
+        "Utilities": [
+            "Electricity Available",
+            "Water Available"
+        ],
+        "YearBuilt": 1937,
+        "Appliances": [
+            "Dryer",
+            "Refrigerator"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11121906",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "0",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.1,
+        "PhotosCount": 16,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [],
+            "BrokerName": "DEW Realty, LLC",
+            "ListingURL": "https://listings.listhub.net/pages/MAORFL/A11121906/?channel=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "dawnsellshouses@aol.com",
+            "LeadRoutingEmail": "dawn@dewrealty.net",
+            "ListBrokerageCity": "El Portal",
+            "ListBrokerageName": "DEW Realty, LLC",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "dawnsellshouses@aol.com",
+            "ListOfficeAddress1": "203 NE 86th St",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33138",
+            "ListOfficeBrokerMlsId": "0680194",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33138",
+            "ListBrokerageWebsiteUrl": "http://www.dawnsellshouses.com",
+            "MLSModificationTimestamp": "2021-11-09T18:00:43.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "203 NE 86 Street"
+        },
+        "ListAgentKey": "3yd-MAORFL-0680194",
+        "ListAgentURL": "http://www.dewrealty.net",
+        "LotSizeAcres": 0.1,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-12-068-0040",
+        "ParkingTotal": 0,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 1,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 2,
+        "ListOfficeKey": "3yd-MAORFL-DEWR01",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Hip location in the coolest neighborhood \"Little River\" Cute as a button 2/1. Freshly painted, newer appliances including washer & dryer and ready to move in. Tile throughout. Yard maintenance and trash are included in the rent. Tenants are responsible for all utilities.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "dawn@dewrealty.net",
+        "ListAgentMlsId": "0680194",
+        "ListOfficeName": "DEW Realty, LLC",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "DEWR01",
+        "ListOfficePhone": "3052970787",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "HILLSIDE TERR",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "14 NW 75th St",
+        "ExteriorFeatures": [
+            "Fence",
+            "Open Porch"
+        ],
+        "InteriorFeatures": [
+            "Fireplace-decorative",
+            "Circuit Breaker",
+            "Dryer",
+            "Electric Water Heater",
+            "Electric Range",
+            "Refrigerator",
+            "Smoke Detector",
+            "Washer"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Dawn Wellman",
+        "ListAgentLastName": "Wellman",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Dawn",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-07",
+        "TaxLegalDescription": "HILLSIDE TERR PB 7-14 N80FT LOT 3 BLK 1 LOT SIZE 55.000 X 80 OR 12493-301 0485 6 COC 25614-1608 03 2007 5",
+        "ListAgentOfficePhone": "3052970787",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 1,
+        "ConstructionMaterials": [
+            "Frame"
+        ],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-11-22T20:27:03.000Z",
+        "PatioAndPorchFeatures": [
+            "Porch"
+        ],
+        "PhotosChangeTimestamp": "2021-11-08T20:44:17.000Z",
+        "ListAgentPreferredPhone": "3052970787",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": false,
+        "InternetAutomatedValuationDisplayYN": false
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "4d32adca704a72a40a448b8eca03529fd9a06849",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f668075352r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:55.000Z"
+            },
+            {
+                "MediaKey": "cafc705561a2f541d961cc8ae8125189e72b2497",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f3959760372r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:55.000Z"
+            },
+            {
+                "MediaKey": "5cd582e5d7988cd02bbb0a48630a5355c9aaee03",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f34481703r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:56.000Z"
+            },
+            {
+                "MediaKey": "fe85aa2326ae72373bb6f758e4623a12ec0d7fb4",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f4146778288r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:56.000Z"
+            },
+            {
+                "MediaKey": "f27c728da8b5234cbded547986b0d993c94dfb92",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f600507297r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:57.000Z"
+            },
+            {
+                "MediaKey": "45bce3e1172769de1c45437de49c8878e6214d72",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f1771757195r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:58.000Z"
+            },
+            {
+                "MediaKey": "0854d08bcb0eae01665085f74ad019c8efb7b38f",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f534609537r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:58.000Z"
+            },
+            {
+                "MediaKey": "358c5b58286cf7c1699143d6eb595faaa6759462",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f3503051080r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:59.000Z"
+            },
+            {
+                "MediaKey": "724a765098a45b1d5a113b41edeb2c502093f186",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f493134516r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:59.000Z"
+            },
+            {
+                "MediaKey": "8d5aa474459080bf4485ccd29c39676369103e40",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f1332297420r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:33:00.000Z"
+            },
+            {
+                "MediaKey": "e7310a69fda2d937efe32b2af00cebce83ddf11a",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f892553795r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:54.000Z"
+            },
+            {
+                "MediaKey": "74baa1d3a0e5887e743fe57848676d8ba4c4ec94",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f3391281040r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:55.000Z"
+            },
+            {
+                "MediaKey": "b33d2546006cd5b96645cb075968b6b5f1fece33",
+                "MediaURL": "http://lh.rdcpix.com/d5bb66f9dfed65587f39fa487654d5fdl-f1724254259r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-11T18:32:55.000Z"
+            },
+            {
+                "MediaKey": "b9f69dd770d4200418209aa76d5394b07003356f",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11123878",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-11T18:33:00.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3",
+            "Bedroom 4"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [],
+        "Location": null,
+        "ListPrice": 2800.0,
+        "ListingId": "A11123878",
+        "OpenHouse": [],
+        "Utilities": [],
+        "YearBuilt": 1968,
+        "Appliances": [],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11123878",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "3",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.14,
+        "PhotosCount": 13,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [],
+            "BrokerName": "sigma real estate and investment  corp",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/160-NW-62nd-St-Apt-3_Miami_FL_33150_M95756-70914?f=listhub&s=MAORFL&m=A11123878&c=HomePath",
+            "ListingTitle": "Residential Rental, Apartments-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "sigmarealestatecorp@gmail.com",
+            "LeadRoutingEmail": "krisrodriguezrealtor@gmail.com",
+            "ListBrokerageCity": "sw ranches",
+            "ListBrokerageName": "sigma real estate and investment  corp",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "SIGMAREALESTATECORP@GMAIL.COM",
+            "ListOfficeAddress1": "19790 West Dixie Highway",
+            "ListOfficeAddress2": "Suite # 501",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33180",
+            "ListOfficeBrokerMlsId": "0632780",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33332",
+            "MLSModificationTimestamp": "2021-11-23T00:22:49.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "6290 sw 188 ave"
+        },
+        "ListAgentKey": "3yd-MAORFL-3323837",
+        "LotSizeAcres": 0.14,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-13-052-0080",
+        "ParkingTotal": 0,
+        "PropertyType": "Residential Lease",
+        "StoriesTotal": 2,
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 4,
+        "ListOfficeKey": "3yd-MAORFL-SIGM01",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Fully updated, large 4-bed 2-full bath 2nd floor apartment with Central AC on 62nd street, east of i-95 and steps from Magic City Innovation District, and close to wynwood, design district, and midtown. Rent includes water and trash. Pets OK. Requirements: First, last, security, background check, and proof of income. Agents, please see broker remarks.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "krisrodriguezrealtor@gmail.com",
+        "ListAgentMlsId": "3323837",
+        "ListOfficeName": "Sigma Real Estate & Investment",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "SIGM01",
+        "ListOfficePhone": "3053361843",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Apartment",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "ROCKMOOR PARK TRACK",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "160 NW 62nd St",
+        "ExteriorFeatures": [],
+        "InteriorFeatures": [],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Kristopher Rodriguez",
+        "ListAgentLastName": "Rodriguez",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Kristopher",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-11",
+        "TaxLegalDescription": "ROCKMOOR PARK TR PB 4-190 LOT 8 LESS N20FT FOR R/W BLK 1 LOT SIZE 50.00 X 123 OR 10786-572 1279 5 COC 22009-3916 10 2003 4",
+        "ListAgentOfficePhone": "3053361843",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-11-23T01:14:41.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2021-11-11T18:33:00.000Z",
+        "ListAgentPreferredPhone": "3053361843",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": true
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "3b2c5074538381564bbd383ee599aa38af00a485",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f1480249858r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:03.000Z"
+            },
+            {
+                "MediaKey": "bb0d73b5c023f06f907aa4095d8d431a8767265a",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f2641714828r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:04.000Z"
+            },
+            {
+                "MediaKey": "bbacef894e8c088aac519aa368225bab3c5b0acf",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f4165097137r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:05.000Z"
+            },
+            {
+                "MediaKey": "d27940cff27a8cf3532ed35b4224b72d1617b1bd",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f562222113r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:05.000Z"
+            },
+            {
+                "MediaKey": "03878551af7efdce462495131e6210fc5426af5f",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f533104906r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:06.000Z"
+            },
+            {
+                "MediaKey": "22083e3bdc1794429eeb35988919ecccb4d886ec",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f3998692748r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:06.000Z"
+            },
+            {
+                "MediaKey": "48c29982c19f3f0e1fd55cef095cc6a9b9539667",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f441750283r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:07.000Z"
+            },
+            {
+                "MediaKey": "1917af3b58aa4ca02b359b26071b23cad46a4cc8",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f3612548761r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:08.000Z"
+            },
+            {
+                "MediaKey": "0136c4b63f0cf3800c89aea9f984a719618d8d58",
+                "MediaURL": "http://lh.rdcpix.com/8985691475095c43641e37836b5dbcb2l-f2568221084r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-19T02:22:08.000Z"
+            },
+            {
+                "MediaKey": "0b21393595eafbec80736075fec1076ea271e09c",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11127067",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-19T02:22:08.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [],
+        "Latitude": 25.839144,
+        "Location": [
+            -80.208251,
+            25.839144
+        ],
+        "ListPrice": 2300.0,
+        "ListingId": "A11127067",
+        "Longitude": -80.208251,
+        "OpenHouse": [],
+        "Utilities": [],
+        "YearBuilt": 2007,
+        "Appliances": [],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11127067",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "7030",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.09,
+        "PhotosCount": 9,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 50,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Real Estate Sales Force",
+            "ListingURL": "https://listings.listhub.net/pages/MAORFL/A11127067/?channel=HomePath",
+            "ListingTitle": "Residential Rental, Duplex/Tri/Quad-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Coral Gables",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "J@RESF.COM",
+            "LeadRoutingEmail": "ford@resf.com",
+            "ListBrokerageCity": "Coral Gables",
+            "ListBrokerageName": "Real Estate Sales Force",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "j@resf.com",
+            "ListOfficeAddress1": "814 Ponce De Leon  Blvd",
+            "ListOfficeAddress2": "Suite 503",
+            "ListBrokerageCountry": "US",
+            "ListBrokerageLogoUrl": "http://brokerlogos.listhub.net/MAORFL/74999601d96d11e09b8400219b994c72/20130729211157002.png",
+            "ListOfficePostalCode": "33134",
+            "ListOfficeBrokerMlsId": "0662364",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33134",
+            "ListBrokerageWebsiteUrl": "http://resf.com/",
+            "MLSModificationTimestamp": "2021-11-29T17:25:26.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "814 Ponce De Leon #500"
+        },
+        "ListAgentKey": "3yd-MAORFL-3194141",
+        "ListAgentURL": "http://resf.com/",
+        "LotSizeAcres": 0.09,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-13-024-1260",
+        "ParkingTotal": 0,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 3,
+        "ListOfficeKey": "3yd-MAORFL-RESF01",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Easy to show! Large 3 bed + 2 bath. Easy access to I-95, near schools, shopping centers, 2 parking spots. Common area backyard. Contact listing agent for showing instructions.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "ford@resf.com",
+        "ListAgentMlsId": "3194141",
+        "ListOfficeName": "Real Estate Sales Force",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "RESF01",
+        "ListOfficePhone": "3053921497",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Duplex",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "7TH AVENUE HIGHLANDS",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "7030 NW 6th Ct",
+        "ExteriorFeatures": [],
+        "InteriorFeatures": [],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Christopher Ford",
+        "ListAgentLastName": "Ford",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Christopher",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-18",
+        "TaxLegalDescription": "13 53 41 SEVENTH AVE HIGHLANDS PB 14-13 LOT 41 LESS E5FT FOR R/W BLK 7 LOT SIZE 40.000 X 98 OR 15587-4325 0692 2",
+        "ListAgentOfficePhone": "3053921497",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-11-30T17:20:46.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2021-11-19T02:22:08.000Z",
+        "ListAgentPreferredPhone": "7863993285",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": false
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "43e214a16165924b597475188de4baca0a7e698f",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f1583895585r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:46.000Z"
+            },
+            {
+                "MediaKey": "862fdb01c2dc3d2b7bdfeb980efd63a007529592",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f1074040412r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:46.000Z"
+            },
+            {
+                "MediaKey": "53e9b84721fda1c7a60a865f1876b1926c2930f0",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f1086193080r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:47.000Z"
+            },
+            {
+                "MediaKey": "79cb17680e436785de6926fb2b26da8b6d9b9760",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f30784762r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:48.000Z"
+            },
+            {
+                "MediaKey": "c8d6ed2030e34cda9d4725eb44a8c629af13526f",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f4067400259r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:49.000Z"
+            },
+            {
+                "MediaKey": "0b2f8ad364acd929b087802dad2be79b9b773c07",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f3893801227r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:50.000Z"
+            },
+            {
+                "MediaKey": "6073d272bdfa5a05c4a322159114f04c3f65dd92",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f4145737932r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:50.000Z"
+            },
+            {
+                "MediaKey": "7832af144ae1db90576fbb424b7b4475abe72814",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f1428785006r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:51.000Z"
+            },
+            {
+                "MediaKey": "a13f2e59755fbfd1d16b4a87902c2144f019c877",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f3593922154r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:52.000Z"
+            },
+            {
+                "MediaKey": "1f53e6e25599deb3fe03eaa949182494a96f265d",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f2305859283r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:52.000Z"
+            },
+            {
+                "MediaKey": "8d98b83b55d750cae21057d9df54c299a1d27651",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f2191890081r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:46.000Z"
+            },
+            {
+                "MediaKey": "76294764c18ace64351cda19e3762a99d13f51d5",
+                "MediaURL": "http://lh.rdcpix.com/4079708d218afe684253a7f0061047c2l-f3887181340r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-22T17:28:46.000Z"
+            },
+            {
+                "MediaKey": "e6f12d72e4e471913070a63c0e40df325cbef3a3",
+                "MediaURL": "https://app.immoviewer.com/landing/unbranded/619c7f1fdfb55929f8763809",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-22T17:28:52.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bedroom 1"
+        ],
+        "SpaYN": false,
+        "Cooling": [
+            "Window Unit(s) A/C"
+        ],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [
+            "Tile"
+        ],
+        "Latitude": 25.868811,
+        "Location": [
+            -80.211589,
+            25.868811
+        ],
+        "ListPrice": 1250.0,
+        "ListingId": "A11127239",
+        "Longitude": -80.211589,
+        "OpenHouse": [],
+        "Utilities": [
+            "Electricity Available"
+        ],
+        "YearBuilt": 1948,
+        "Appliances": [
+            "Refrigerator"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11127239",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "2",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.14,
+        "PhotosCount": 12,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 50,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Keyes Company Realtors",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/786-NW-103rd-St-2_Miami_FL_33150_M97348-22751?f=listhub&s=MAORFL&m=A11127239&c=HomePath",
+            "ListingTitle": "Residential Rental, Duplex/Tri/Quad-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami Beach",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "ACarrillo@keyes.com",
+            "LeadRoutingEmail": "eleonora.depalma@gmail.com",
+            "ListBrokerageCity": "Miami",
+            "ListBrokerageName": "Keyes Company Realtors",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "mikepappas@keyes.com",
+            "ListOfficeAddress1": "1400 Alton Rd Ste 201",
+            "ListBrokerageCountry": "US",
+            "ListBrokerageLogoUrl": "http://brokerlogos.listhub.net/MAORFL/fdbeb171cd6811dfa0e900219b994c72/20110411230215372.png",
+            "ListOfficePostalCode": "33139",
+            "ListOfficeBrokerMlsId": "3150705",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33129",
+            "ListBrokerageUnitNumber": "Suite 200",
+            "ListBrokerageWebsiteUrl": "http://www.keyes.com",
+            "MLSModificationTimestamp": "2021-11-23T08:17:31.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "2121 SW 3rd Ave"
+        },
+        "ListAgentKey": "3yd-MAORFL-3247688",
+        "ListAgentURL": "http://eleonoradepalma.keyes.com",
+        "LotSizeAcres": 0.14,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "30-31-02-012-0080",
+        "ParkingTotal": 0,
+        "PropertyType": "Residential Lease",
+        "StoriesTotal": 1,
+        "WaterfrontYN": false,
+        "BathroomsFull": 1,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 1,
+        "ListOfficeKey": "3yd-MAORFL-KEYE06",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "One bedroom and one bath unit in a duplex! Tile floors, Refrigerator, stove, and wall unit air conditioners!\r\nPerfect location walking distance to many restaurants, shops and stores & close to I-95!\r\nTenant is responsible for electricity, water, cable & internet! Landlord requires renters' insurance!",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "eleonora.depalma@gmail.com",
+        "ListAgentMlsId": "3247688",
+        "ListOfficeName": "The Keyes Company",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "KEYE06",
+        "ListOfficePhone": "3055315803",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Duplex",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "WEST BISCAYNE",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "786 NW 103rd Street",
+        "ExteriorFeatures": [],
+        "InteriorFeatures": [
+            "Electric Range"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Eleonora De Palma",
+        "ListAgentLastName": "De Palma",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Eleonora",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-22",
+        "TaxLegalDescription": "WEST BISCAYNE PB 7-58 LOT 11 LESS N25FT FOR R/W BLK 1 LOT SIZE 50 X 125 OR 14464-2082 0390 5",
+        "ListAgentOfficePhone": "3055315803",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 1,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-11-23T09:17:46.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2021-11-22T17:28:52.000Z",
+        "ListAgentPreferredPhone": "3054392033",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": true
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "a0ca10e8e933cec2f2a00fcdb8f92eda1441a17f",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f4284484422r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:02.000Z"
+            },
+            {
+                "MediaKey": "aafd065c6836ac8e6b02c7675e249c30cdae0f3c",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f154318145r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:03.000Z"
+            },
+            {
+                "MediaKey": "9e50fa42ea1f2b7f1c03403b7e62e1347098f3d3",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f3354726449r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:04.000Z"
+            },
+            {
+                "MediaKey": "aca0b850eaae026ad9aeb8cd58400f2964bd2d96",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f4064223452r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:04.000Z"
+            },
+            {
+                "MediaKey": "49e6b4c12b39a80688b576f23b5eb73abfe992a3",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f4199172463r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:05.000Z"
+            },
+            {
+                "MediaKey": "78dd3715737a55c5832f21bfec380ce768daa227",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f3895467900r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:06.000Z"
+            },
+            {
+                "MediaKey": "ba440e09559b5314ae8b1dc8277f08c778a8205b",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f4147698038r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:06.000Z"
+            },
+            {
+                "MediaKey": "e507ea84094948e769c3a68eb63a33a7fd2dd21b",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f180245164r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:07.000Z"
+            },
+            {
+                "MediaKey": "dd571c6f9349f74b764ac2449e54651f3f3805c2",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f6986050r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:07.000Z"
+            },
+            {
+                "MediaKey": "ea1e993d94207df4d6652457c4453faa50cbf574",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f2670156399r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:08.000Z"
+            },
+            {
+                "MediaKey": "bd28005d3162c0cbb8132fbc3a073e8cc400b18a",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f1408022666r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:02.000Z"
+            },
+            {
+                "MediaKey": "b369ddd94d904cd265ae529f8f6cb3e95786dee7",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f2790301364r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:03.000Z"
+            },
+            {
+                "MediaKey": "03f9923765975cd63b04c61e642aefa4c41cdc0a",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f1791001014r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:04.000Z"
+            },
+            {
+                "MediaKey": "82a221a9ba0fdb4628c02f8760bbe50b1f0ce31d",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f449442152r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:05.000Z"
+            },
+            {
+                "MediaKey": "aca1cc356ad37efed5ef1f77499dab116d7a0d07",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f4251550613r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:05.000Z"
+            },
+            {
+                "MediaKey": "93e84744aa7be6393d5054aa5305144ddfc8a42e",
+                "MediaURL": "http://lh.rdcpix.com/8140366d9783013669e6c1c13d9173a9l-f3710805037r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:31:06.000Z"
+            },
+            {
+                "MediaKey": "6e34c42a3a2211f0618b0047ca06d1b98c1e0356",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11128992",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-29T22:31:08.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3",
+            "Laundry",
+            "Living Room"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [
+            "Fenced"
+        ],
+        "Heating": [],
+        "Flooring": [],
+        "Latitude": 25.83673,
+        "Location": [
+            -80.204933,
+            25.83673
+        ],
+        "ListPrice": 3500.0,
+        "ListingId": "A11128992",
+        "Longitude": -80.204933,
+        "OpenHouse": [
+            {
+                "ListingKey": "3yd-MAORFL-A11128992",
+                "OpenHouseId": "A11128992",
+                "OpenHouseEndTime": "2022-01-16T14:00:00.000-05:00",
+                "OpenHouseStartTime": "2022-01-16T11:00:00.000-05:00",
+                "AppointmentRequiredYN": false
+            }
+        ],
+        "Utilities": [
+            "Electricity Available"
+        ],
+        "YearBuilt": 1941,
+        "Appliances": [
+            "Dryer",
+            "Microwave",
+            "Refrigerator"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2022 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "HighSchool": "Miami Edison",
+        "ListingKey": "3yd-MAORFL-A11128992",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "1",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.25,
+        "PhotosCount": 16,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 30,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Douglas Elliman",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/6734-NW-5th-Ave-1_Miami_FL_33150_M95012-03555?f=listhub&s=MAORFL&m=A11128992&c=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Coral Gables",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "martha.pomares@elliman.com",
+            "LeadRoutingEmail": "flbroker@elliman.com",
+            "ListBrokerageCity": "Palm Beach",
+            "ListBrokerageName": "Douglas Elliman",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "iakhrass@elliman.com",
+            "ListBrokeragePhone": "3056956300",
+            "ListOfficeAddress1": "1515 Sunset Dr # 10",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33143",
+            "ListOfficeBrokerMlsId": "0547362Q",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33480",
+            "ListBrokerageUnitNumber": "Suite 318",
+            "ListBrokerageWebsiteUrl": "https://elliman.com",
+            "MLSModificationTimestamp": "2022-01-09T10:44:41.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "340 Royal Poinciana Way"
+        },
+        "ListAgentKey": "3yd-MAORFL-3125959",
+        "ListAgentURL": "https://elliman.com",
+        "LotSizeAcres": 0.25,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-13-024-2290",
+        "ParkingTotal": 3,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 3,
+        "ListOfficeKey": "3yd-MAORFL-DEOM19",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Completely remodeled single family 3/2 Duplex in the heart of Miami\u00e2\u20ac\u2122s Little River neighborhood. Centrally located with easy access to I-95 in a quite area. All brand new appliances. Ring doorbell and programable cameras as well as motion sensor activated lighting.  Rent Includes: Electric, Water, Internet, Landscaping, Washer/Dryer and Pest Control. Private master suite and 3 mounted flat screen TV\u00e2\u20ac\u2122s. Everything in the home is brand new. \r\nThis listing will not last!",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "mariana.niro@elliman.com",
+        "ListAgentMlsId": "3125959",
+        "ListOfficeName": "Douglas Elliman",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "DEOM19",
+        "ListOfficePhone": "3056956300",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "7TH AVENUE HIGHLANDS",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "6734 NW 5th Ave",
+        "ElementarySchool": "Edison Park",
+        "ExteriorFeatures": [
+            "Fence",
+            "Patio"
+        ],
+        "InteriorFeatures": [
+            "First Floor Entry",
+            "Closet Cabinetry",
+            "Dryer",
+            "Fire Alarm",
+            "Icemaker",
+            "Microwave",
+            "Electric Range",
+            "Refrigerator",
+            "Smoke Detector",
+            "Washer"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Mariana Niro",
+        "ListAgentLastName": "Niro",
+        "PropertyCondition": [
+            "New Construction"
+        ],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Mariana",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-28",
+        "TaxLegalDescription": "13 53 41 SEVENTH AVE HIGHLANDS PB 14-13 LOTS 20 & 21 BLK 12 LOT SIZE 80.000 X 135",
+        "ListAgentOfficePhone": "3056956300",
+        "MiddleOrJuniorSchool": "Miami Edison",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2022-01-09T21:08:30.000Z",
+        "PatioAndPorchFeatures": [
+            "Patio"
+        ],
+        "PhotosChangeTimestamp": "2021-11-29T22:31:08.000Z",
+        "ListAgentPreferredPhone": "3056956300",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": true
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "67f96957b73772b054bfb2838e726545b7870b2a",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f4268128783r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:39.000Z"
+            },
+            {
+                "MediaKey": "4deb97c33eed927a89118ac02ca3f634315e31b2",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f3395352266r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:40.000Z"
+            },
+            {
+                "MediaKey": "f8d5aa2266985c6378d141b7447f808b7408e838",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f2864448937r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:40.000Z"
+            },
+            {
+                "MediaKey": "8634fab785dc1313dc6933e20dbcd8d91c359e5c",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f3791814261r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:41.000Z"
+            },
+            {
+                "MediaKey": "5e51f868716dff63da82ea7f3e15ad471a57dd01",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f1745443631r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:42.000Z"
+            },
+            {
+                "MediaKey": "d730438572f8e01911affb78b8331cf02c6ddbe4",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f2471192494r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:42.000Z"
+            },
+            {
+                "MediaKey": "b8733effc6cac31eb384e6adb218e3a30b904308",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f20766384r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:43.000Z"
+            },
+            {
+                "MediaKey": "0492d0908c3dd7de6ee66eda3980df071da3b5bd",
+                "MediaURL": "http://lh.rdcpix.com/a471a141635a7b6b527baccc850bcb2dl-f3103954336r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-11-29T22:27:44.000Z"
+            },
+            {
+                "MediaKey": "a4c3e35a89b6136acbe81df39808256a538cae67",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11129007",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-11-29T22:27:44.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bedroom 1",
+            "Laundry",
+            "Living Room"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [
+            "Fenced"
+        ],
+        "Heating": [],
+        "Flooring": [],
+        "Latitude": 25.83673,
+        "Location": [
+            -80.204933,
+            25.83673
+        ],
+        "ListPrice": 2050.0,
+        "ListingId": "A11129007",
+        "Longitude": -80.204933,
+        "OpenHouse": [
+            {
+                "ListingKey": "3yd-MAORFL-A11129007",
+                "OpenHouseId": "A11129007",
+                "OpenHouseEndTime": "2022-01-16T14:00:00.000-05:00",
+                "OpenHouseStartTime": "2022-01-16T11:00:00.000-05:00",
+                "AppointmentRequiredYN": false
+            }
+        ],
+        "Utilities": [],
+        "YearBuilt": 1941,
+        "Appliances": [
+            "Dryer",
+            "Microwave",
+            "Refrigerator"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2022 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11129007",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "2",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.25,
+        "PhotosCount": 8,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 30,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Douglas Elliman",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/6734-NW-5th-Ave-2_Miami_FL_33150_M95474-22441?f=listhub&s=MAORFL&m=A11129007&c=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Coral Gables",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "martha.pomares@elliman.com",
+            "LeadRoutingEmail": "flbroker@elliman.com",
+            "ListBrokerageCity": "Palm Beach",
+            "ListBrokerageName": "Douglas Elliman",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "iakhrass@elliman.com",
+            "ListBrokeragePhone": "3056956300",
+            "ListOfficeAddress1": "1515 Sunset Dr # 10",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33143",
+            "ListOfficeBrokerMlsId": "0547362Q",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33480",
+            "ListBrokerageUnitNumber": "Suite 318",
+            "ListBrokerageWebsiteUrl": "https://elliman.com",
+            "MLSModificationTimestamp": "2022-01-09T10:44:10.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "340 Royal Poinciana Way"
+        },
+        "ListAgentKey": "3yd-MAORFL-3125959",
+        "ListAgentURL": "https://elliman.com",
+        "LotSizeAcres": 0.25,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-13-024-2290",
+        "ParkingTotal": 2,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 1,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 1,
+        "ListOfficeKey": "3yd-MAORFL-DEOM19",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Completely remodeled single family 1/1 Duplex unit in the heart of Miami\u00e2\u20ac\u2122s Little River neighborhood. Centrally located with easy access to I-95 in a quite area. All brand new appliances. Rent Includes: Electric, Water, Internet, Landscaping, Washer/Dryer and Pest Control. Bedroom has a mounted flat screen TV. Everything in the home is brand new. \r\n\r\nThis listing will not last!",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "mariana.niro@elliman.com",
+        "ListAgentMlsId": "3125959",
+        "ListOfficeName": "Douglas Elliman",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "DEOM19",
+        "ListOfficePhone": "3056956300",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "7TH AVENUE HIGHLANDS",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "6734 NW 5th Ave",
+        "ExteriorFeatures": [
+            "Fence"
+        ],
+        "InteriorFeatures": [
+            "First Floor Entry",
+            "Closet Cabinetry",
+            "Fire Sprinklers",
+            "Dryer",
+            "Microwave",
+            "Refrigerator",
+            "Smoke Detector",
+            "Washer"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Mariana Niro",
+        "ListAgentLastName": "Niro",
+        "PropertyCondition": [
+            "New Construction"
+        ],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Mariana",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-28",
+        "TaxLegalDescription": "13 53 41 SEVENTH AVE HIGHLANDS PB 14-13 LOTS 20 & 21 BLK 12 LOT SIZE 80.000 X 135",
+        "ListAgentOfficePhone": "3056956300",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 1,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2022-01-09T21:08:30.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2021-11-29T22:27:44.000Z",
+        "ListAgentPreferredPhone": "3056956300",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": false
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "71e51a61bd8152238abff44f673d438f25cf9583",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1757062930r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:38.000Z"
+            },
+            {
+                "MediaKey": "d45485e86a99c17f25a3f017694058908977f7d7",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1835970871r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:32.000Z"
+            },
+            {
+                "MediaKey": "80b0685c16816f970a5fc8eb77252e2da759a2bd",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f3907288996r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:32.000Z"
+            },
+            {
+                "MediaKey": "ba8ec10004b3548fcf9afca62777e4d340f3f179",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1420659576r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:33.000Z"
+            },
+            {
+                "MediaKey": "5e327888ef9a12d2ce79e261004cfbbe98a3eebb",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f3218984296r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:34.000Z"
+            },
+            {
+                "MediaKey": "9f589e668e6345b46b50aecc6e29e3d42ad745a2",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1049197749r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:34.000Z"
+            },
+            {
+                "MediaKey": "5451842e0fabf7f8b8cb1b7a06780dff54dfe7f9",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1937638086r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:35.000Z"
+            },
+            {
+                "MediaKey": "df28264e01f96cd324a8f43f1f25892467c08b87",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f4163647784r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:35.000Z"
+            },
+            {
+                "MediaKey": "153128d0ba4f10d26be460da5c2ac07412c4baa9",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1210248743r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:36.000Z"
+            },
+            {
+                "MediaKey": "16332ba64474d521ef7a5393a6960ddb32ae6c38",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f2946416461r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:36.000Z"
+            },
+            {
+                "MediaKey": "cce5395c7d16b6aca9390b68dff82b5867d671d8",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f2990720438r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:37.000Z"
+            },
+            {
+                "MediaKey": "02ab297ab32c6f4acb2abce9e918900b5d2f17ea",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1629786443r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:31.000Z"
+            },
+            {
+                "MediaKey": "7392f7ac4e507867c11c15d5309039cccb3e479d",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f449703597r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:32.000Z"
+            },
+            {
+                "MediaKey": "bed64c08e9b76f387370da28e685212bab7cf3ec",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f3832473339r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:33.000Z"
+            },
+            {
+                "MediaKey": "88a3b431860aa28991f48ae75307a32594c8db6c",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f2270964360r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:33.000Z"
+            },
+            {
+                "MediaKey": "561702361ded175a9435cf030b5cf5a1069fbe6b",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1744430994r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:34.000Z"
+            },
+            {
+                "MediaKey": "96bf6b1681999656fa1b29ffa6c463be18e84532",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f743901256r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:34.000Z"
+            },
+            {
+                "MediaKey": "d249d0b59d98098abb44ccf7fe09fce1e0aa7ca4",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1983823649r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:35.000Z"
+            },
+            {
+                "MediaKey": "af6c513d39b73508ea94cffffca2586ee6064618",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f3276073881r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:36.000Z"
+            },
+            {
+                "MediaKey": "40cfb16259522979eb069cff074ac8b684bd667a",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f485462879r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:36.000Z"
+            },
+            {
+                "MediaKey": "fa92d1446a0e3024fce762ff9e3cd691a6dbae60",
+                "MediaURL": "http://lh.rdcpix.com/5727bc311d1d215287d458a80a896a9el-f1099022993r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-08T15:26:37.000Z"
+            },
+            {
+                "MediaKey": "f0378130ec9143b4c9ed6992249a403d30db1f28",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11133691",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-12-08T15:26:38.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bathroom 3",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3",
+            "Bedroom 4",
+            "Laundry",
+            "Living Room"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [
+            "Fenced"
+        ],
+        "Heating": [],
+        "Flooring": [],
+        "Latitude": 25.83673,
+        "Location": [
+            -80.204933,
+            25.83673
+        ],
+        "ListPrice": 5200.0,
+        "ListingId": "A11133691",
+        "Longitude": -80.204933,
+        "OpenHouse": [
+            {
+                "ListingKey": "3yd-MAORFL-A11133691",
+                "OpenHouseId": "A11133691",
+                "OpenHouseEndTime": "2022-01-16T14:00:00.000-05:00",
+                "OpenHouseStartTime": "2022-01-16T11:00:00.000-05:00",
+                "AppointmentRequiredYN": false
+            }
+        ],
+        "Utilities": [
+            "Electricity Available"
+        ],
+        "YearBuilt": 1941,
+        "Appliances": [
+            "Dryer",
+            "Microwave",
+            "Refrigerator"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2022 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "HighSchool": "Miami Edison",
+        "ListingKey": "3yd-MAORFL-A11133691",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "0",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.25,
+        "PhotosCount": 21,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 30,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Douglas Elliman",
+            "ListingURL": "https://listings.listhub.net/pages/MAORFL/A11133691/?channel=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Coral Gables",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "martha.pomares@elliman.com",
+            "LeadRoutingEmail": "flbroker@elliman.com",
+            "ListBrokerageCity": "Palm Beach",
+            "ListBrokerageName": "Douglas Elliman",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "iakhrass@elliman.com",
+            "ListBrokeragePhone": "3056956300",
+            "ListOfficeAddress1": "1515 Sunset Dr # 10",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33143",
+            "ListOfficeBrokerMlsId": "0547362Q",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33480",
+            "ListBrokerageUnitNumber": "Suite 318",
+            "ListBrokerageWebsiteUrl": "https://elliman.com",
+            "MLSModificationTimestamp": "2022-01-09T10:45:16.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "340 Royal Poinciana Way"
+        },
+        "ListAgentKey": "3yd-MAORFL-3125959",
+        "ListAgentURL": "https://elliman.com",
+        "LotSizeAcres": 0.25,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-13-024-2290",
+        "ParkingTotal": 3,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 3,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 4,
+        "ListOfficeKey": "3yd-MAORFL-DEOM19",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Completely remodeled single family 4/3 Single Family Home in the heart of Miami\u00e2\u20ac\u2122s Little River neighborhood. Centrally located with easy access to I-95 in a quite area. All brand new appliances. Ring doorbell and programable cameras as well as motion sensor activated lighting. With separate 1/1 in-laws unit. Private master suite and 4 mounted flat screen TV\u00e2\u20ac\u2122s. Everything in the home is brand new. \r\n\r\nThis listing will not last!",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "mariana.niro@elliman.com",
+        "ListAgentMlsId": "3125959",
+        "ListOfficeName": "Douglas Elliman",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "DEOM19",
+        "ListOfficePhone": "3056956300",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "7TH AVENUE HIGHLANDS",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "6734 NW 5th Ave",
+        "ElementarySchool": "Edison Park",
+        "ExteriorFeatures": [
+            "Fence",
+            "Patio"
+        ],
+        "InteriorFeatures": [
+            "First Floor Entry",
+            "Closet Cabinetry",
+            "Dryer",
+            "Fire Alarm",
+            "Icemaker",
+            "Microwave",
+            "Electric Range",
+            "Refrigerator",
+            "Smoke Detector",
+            "Washer"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Mariana Niro",
+        "ListAgentLastName": "Niro",
+        "PropertyCondition": [
+            "New Construction"
+        ],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Mariana",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-12-07",
+        "TaxLegalDescription": "13 53 41 SEVENTH AVE HIGHLANDS PB 14-13 LOTS 20 & 21 BLK 12 LOT SIZE 80.000 X 135",
+        "ListAgentOfficePhone": "3056956300",
+        "MiddleOrJuniorSchool": "Miami Edison",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 3,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2022-01-11T20:13:18.000Z",
+        "PatioAndPorchFeatures": [
+            "Patio"
+        ],
+        "PhotosChangeTimestamp": "2021-12-08T15:26:38.000Z",
+        "ListAgentPreferredPhone": "3056956300",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": true
+    },
+    {
+        "Roof": [
+            "Tile"
+        ],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "707804dcb57614fb58c2d2ecdee59b8d02790427",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3456083430r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:21.000Z"
+            },
+            {
+                "MediaKey": "e77f54c59e222ab7c5b6cefae0117ba6e49513c9",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2936792621r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:22.000Z"
+            },
+            {
+                "MediaKey": "b85b5effeabadf63f0677c04d184edcccd77efab",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1586008257r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:23.000Z"
+            },
+            {
+                "MediaKey": "c6e9802eb511c0eaba15d111ee6f086abf28421e",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2655742426r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:23.000Z"
+            },
+            {
+                "MediaKey": "dfb108685777200b0da4cde82014208032e0cb48",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2868233604r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:24.000Z"
+            },
+            {
+                "MediaKey": "6f7eca2fd9770af8980f4835e04f2afb0f22c835",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3511374572r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:25.000Z"
+            },
+            {
+                "MediaKey": "e142e62a437b63b7699e1a5e98b85c1bc5ee3fa0",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1276233615r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:25.000Z"
+            },
+            {
+                "MediaKey": "4361cbf55d2152fc41173aba16e8a1b4994d794b",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f608338216r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:26.000Z"
+            },
+            {
+                "MediaKey": "ef7814cecba7505e0ddd3e2e2b231b7a46b5a754",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2711333705r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:27.000Z"
+            },
+            {
+                "MediaKey": "88389a5afe3372058e3b9532c065e8641347e396",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1350069488r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:27.000Z"
+            },
+            {
+                "MediaKey": "29b02f6c5c066561376aa1afa753c296c5e59fb4",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f550558777r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:22.000Z"
+            },
+            {
+                "MediaKey": "43e881c3a785e9b1ca08f298b72ecd9411d2e450",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2977768706r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:22.000Z"
+            },
+            {
+                "MediaKey": "b72a57f33c5b4d652e7b5357d3055c7dc8b037e6",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3773972522r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:23.000Z"
+            },
+            {
+                "MediaKey": "d3fb5cc9bf6646a35a44a3a2d0968895b307d1a6",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2580091864r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:24.000Z"
+            },
+            {
+                "MediaKey": "3657bf31d96c010ea326a5adece73835aa4d426c",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3556938981r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:24.000Z"
+            },
+            {
+                "MediaKey": "e9e61e691f93520c7c6cd773884c1c4dd45bcafc",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f4048174498r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:25.000Z"
+            },
+            {
+                "MediaKey": "f5f7b98fbc2eee85818f632377afca3de1597495",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f51683690r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:26.000Z"
+            },
+            {
+                "MediaKey": "36cb1dfb2649674b9722a3040b4bd3f7151b60b6",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f310976215r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:26.000Z"
+            },
+            {
+                "MediaKey": "3d27c53bd528208ea29feac8a582a98d37bdbe57",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2378492633r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:27.000Z"
+            },
+            {
+                "MediaKey": "30d28c611e75dffe8efb78bd6dcad46a806d11dd",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f972031306r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:28.000Z"
+            },
+            {
+                "MediaKey": "8dc19e6b8e7dc884fbd4805861102495ee6d81af",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3772702166r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:21.000Z"
+            },
+            {
+                "MediaKey": "c45fdb7aafb0b18ec43bd52de30b569c51fd3d32",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3026957780r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:22.000Z"
+            },
+            {
+                "MediaKey": "78f0803e1d25712f4aa64ed03bca8843cca2b5b3",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3488919533r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:23.000Z"
+            },
+            {
+                "MediaKey": "ea0d7df8fb9e14c8afaf27c300e962d637357ecc",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3296180564r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:24.000Z"
+            },
+            {
+                "MediaKey": "a482ba2431f79ac18fae6bcba84e1c8f4fcc1a13",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1421366441r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:24.000Z"
+            },
+            {
+                "MediaKey": "2bfce2374872a546669d0802cc4ecaea72763d5e",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3665746081r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:25.000Z"
+            },
+            {
+                "MediaKey": "97717460b7a78093c625f32535a5976739cc0208",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f472008415r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:26.000Z"
+            },
+            {
+                "MediaKey": "c1fa83943bfc3b4af850b73df1962f9524e93eb5",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3970650350r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:27.000Z"
+            },
+            {
+                "MediaKey": "2fab3ea6b3943b6c82497916c189d5eb6b52ec4b",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f3236959895r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:27.000Z"
+            },
+            {
+                "MediaKey": "0225b523debbd4f159a517a3a17046ff90e4dc40",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2759154666r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:28.000Z"
+            },
+            {
+                "MediaKey": "6a4319f5c667cfd4454594152c6c92f4d074998d",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f166245694r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:21.000Z"
+            },
+            {
+                "MediaKey": "2d982b5f7feeb3332f2d60535b5a6273fe76bbb5",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2521231170r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:22.000Z"
+            },
+            {
+                "MediaKey": "2ccd45d6ae02de883c4c122b204230c2b485a250",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1480930175r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-16T23:26:23.000Z"
+            },
+            {
+                "MediaKey": "df818604e6147dc8291912b68f7f532e16d1ceb8",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1956966612r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T15:27:17.000Z"
+            },
+            {
+                "MediaKey": "31dc5c185b570eb772e402d7a4fa556b7bd85207",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f716608250r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T15:27:15.000Z"
+            },
+            {
+                "MediaKey": "e2aac69a00e9ae2f91aabff83ad03c1d3376f48d",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1098769537r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T15:27:16.000Z"
+            },
+            {
+                "MediaKey": "e99826b3064d3260c71c4214b46aaaad59c82e9c",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1788927842r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T15:27:17.000Z"
+            },
+            {
+                "MediaKey": "e4dae44d04fa9f6d91c3908d27a6d42ab3293be9",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1345816139r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T17:26:33.000Z"
+            },
+            {
+                "MediaKey": "16c6f54f41f355ef2883a0dff2e299807a0da0bc",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f1273306574r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T17:26:34.000Z"
+            },
+            {
+                "MediaKey": "c4b775760c3d7a0d478677f00a97597f0e95170d",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f2682143543r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T17:26:35.000Z"
+            },
+            {
+                "MediaKey": "81b9a74bc58254d735cebaf71efa5710068c6251",
+                "MediaURL": "http://lh.rdcpix.com/c6b573f594d56eee638e123e153cbd5fl-f447370756r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-17T17:26:35.000Z"
+            },
+            {
+                "MediaKey": "fedfe9096a1eb7f6d59271bee9f3455a624475af",
+                "MediaURL": "https://www.propertypanorama.com/instaview/mia/A11137553",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2021-12-17T17:26:35.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3",
+            "Bedroom 4",
+            "Laundry"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [
+            "Fenced"
+        ],
+        "Heating": [],
+        "Flooring": [
+            "Tile",
+            "Wood"
+        ],
+        "Location": null,
+        "ListPrice": 6000.0,
+        "ListingId": "A11137553",
+        "OpenHouse": [],
+        "Utilities": [
+            "Electricity Available",
+            "Water Available"
+        ],
+        "YearBuilt": 1949,
+        "Appliances": [
+            "Dishwasher",
+            "Dryer",
+            "Microwave",
+            "Refrigerator",
+            "Washer"
+        ],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "HighSchool": "Miami Edison",
+        "ListingKey": "3yd-MAORFL-A11137553",
+        "PostalCity": "El Portal",
+        "PostalCode": "33150",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.23,
+        "PhotosCount": 41,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 35,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "Caba Real Estate",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/El-Portal_FL_33150_M58063-39988?f=listhub&s=MAORFL&m=A11137553&c=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - El Portal, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "ileana@cabamiami.com",
+            "LeadRoutingEmail": "7862555673",
+            "ListBrokerageCity": "Surfside",
+            "ListBrokerageName": "Caba Real Estate",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "ileana@cabamiami.com",
+            "ListOfficeAddress1": "1031 Ives Dairy Road",
+            "ListOfficeAddress2": "Suite 228 MB #88",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33179",
+            "ListOfficeBrokerMlsId": "0663941",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33154",
+            "ListBrokerageWebsiteUrl": "http://www.cabamiami.com",
+            "MLSModificationTimestamp": "2021-12-17T11:42:42.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "9461 Harding Avenue"
+        },
+        "ListAgentKey": "3yd-MAORFL-3241567",
+        "ListAgentURL": "http://www.montielteam.com",
+        "LotSizeAcres": 0.23,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "18-31-12-071-0220",
+        "ParkingTotal": 2,
+        "PropertyType": "Residential Lease",
+        "StoriesTotal": 1,
+        "WaterfrontYN": true,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 4,
+        "ListOfficeKey": "3yd-MAORFL-CBTO01",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Unique hidden rental treasure on the Little River in the Village of El Portal. This home will not last on the market! We will have limited showings. This completely renovated 1950's  4 bedrooms, 2 bath, single car garage Florida style home is the perfect home for a new family. Large backyard for entertaining and the convenience of being on the little river ideal for kayaking or canoeing.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "antulio@montielteam.com",
+        "ListAgentMlsId": "3241567",
+        "ListOfficeName": "Caba Real Estate",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "CBTO01",
+        "ListOfficePhone": "7862555673",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [
+            "Garage",
+            "Garage - Attached"
+        ],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "SOARS RIVER ESTATES",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "222 NW 86th St",
+        "ElementarySchool": "Miami Shores",
+        "ExteriorFeatures": [
+            "Fence",
+            "Fruit Trees",
+            "High Impact Doors",
+            "Patio"
+        ],
+        "InteriorFeatures": [
+            "First Floor Entry",
+            "Closet Cabinetry",
+            "Split Bedroom",
+            "Walk-in Closets",
+            "Circuit Breaker",
+            "Dishwasher",
+            "Dryer",
+            "Electric Water Heater",
+            "Microwave",
+            "Electric Range",
+            "Refrigerator",
+            "Smoke Detector",
+            "Washer"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Antulio Montiel",
+        "ListAgentLastName": "Montiel",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Antulio",
+        "WaterfrontFeatures": [
+            "Waterfront"
+        ],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-12-15",
+        "TaxLegalDescription": "SOARS RIVER ESTS PB 45-36 LOT 22 BLK 1 LOT SIZE 74.000 X 134 OR 18569-1041 04 1999 1",
+        "ListAgentOfficePhone": "7862555673",
+        "MiddleOrJuniorSchool": "Horace Mann",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-12-17T18:24:30.000Z",
+        "PatioAndPorchFeatures": [
+            "Patio"
+        ],
+        "PhotosChangeTimestamp": "2021-12-17T17:26:35.000Z",
+        "ListAgentPreferredPhone": "antuliomontiel@gmailcom",
+        "InternetAddressDisplayYN": false,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": false
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "69cb134a42f6f0639116a509229e66a92e6c1838",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f4275521170r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:24.000Z"
+            },
+            {
+                "MediaKey": "f4faaa6934f7d4fe3cf819aee91771fddd0cd58e",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f1627336803r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:24.000Z"
+            },
+            {
+                "MediaKey": "e838ad9ee2b5d047d96b10690b9552982669fbe7",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f4085235752r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:25.000Z"
+            },
+            {
+                "MediaKey": "4191797b0b6321f153058af79859e1cd5caa2cb4",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f2212758959r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:25.000Z"
+            },
+            {
+                "MediaKey": "b1f2e0e277ccf8107d49ad6b16b18e50a5e64eb7",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f3479232657r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:26.000Z"
+            },
+            {
+                "MediaKey": "0ec0aecb4547b70abcf259803ed987e96c19c8d2",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f3713397824r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:27.000Z"
+            },
+            {
+                "MediaKey": "4242d0db4e27aba5fb259c93c7a2ea17c38430ef",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f827628697r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:27.000Z"
+            },
+            {
+                "MediaKey": "ac6de91ebdb524f820446ebfc067c5da2fc3e718",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f4164033044r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:28.000Z"
+            },
+            {
+                "MediaKey": "f8ae47cbe568d935f9ae24c407d4f395cbc8d3be",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f2468013335r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:29.000Z"
+            },
+            {
+                "MediaKey": "02667bef4c94c8b1031a3e8bd5dd8c9706c732c6",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f2436553881r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:29.000Z"
+            },
+            {
+                "MediaKey": "a789f2db12129b636f23b59e9a886248fc094cb1",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f1479925585r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:23.000Z"
+            },
+            {
+                "MediaKey": "6065f8753a1584e68283fd5a23b1ab9c77a3a029",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f4172923995r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:24.000Z"
+            },
+            {
+                "MediaKey": "6de63ff9612662f6e826c5e32b9c2c930c697b08",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f935994039r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:25.000Z"
+            },
+            {
+                "MediaKey": "20499882a8c968fcb7e43722baae7f0c6c6b76e7",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f1469820283r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:25.000Z"
+            },
+            {
+                "MediaKey": "6b602880704243582f18cfd93d7c731f3dcdccb8",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f1895852514r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:26.000Z"
+            },
+            {
+                "MediaKey": "83aa19c932bb4a26c9382c058c2d02642b4cc95e",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f2901218541r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:27.000Z"
+            },
+            {
+                "MediaKey": "d9b816ae901b35cfd9b242e87b1511ab0dd178ae",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f2020526112r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:27.000Z"
+            },
+            {
+                "MediaKey": "7fea0d4c7773f508a4f70a4e8e34aec5831b7100",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f161594628r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:28.000Z"
+            },
+            {
+                "MediaKey": "f04b5c0b0c7973635deb2d379e90d235318e9b3b",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f4121764011r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:29.000Z"
+            },
+            {
+                "MediaKey": "588d791d63589e6690686106c0c2e11d6c89c931",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f191171784r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:29.000Z"
+            },
+            {
+                "MediaKey": "63d1556c03ab755490428a5d59baf8a6f4afbd2e",
+                "MediaURL": "http://lh.rdcpix.com/ec6d563edcc69d6dac9f08a1ade76b10l-f2198866888r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2022-01-04T03:25:24.000Z"
+            },
+            {
+                "MediaKey": "d36b170e1c91b6cdfa826b4c80bc11ad46438643",
+                "MediaURL": "https://youtu.be/vaJXcqX4T-I",
+                "MediaCategory": "Unbranded Virtual Tour",
+                "MediaModificationTimestamp": "2022-01-04T03:25:29.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bathroom 3",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [],
+        "Location": null,
+        "ListPrice": 2600.0,
+        "ListingId": "A11142082",
+        "OpenHouse": [],
+        "Utilities": [],
+        "YearBuilt": 2020,
+        "Appliances": [],
+        "Disclaimer": "Copyright \u00c2\u00a9 2022 MIAMI Association of REALTORS\u00c2\u00ae. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-MAORFL-A11142082",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "UnitNumber": "55",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "LotSizeArea": 0.12,
+        "PhotosCount": 21,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [
+                {
+                    "ExpenseValue": 50,
+                    "ExpenseCategory": "Application Fee",
+                    "ExpenseFrequency": "Once,Semi-Monthly"
+                }
+            ],
+            "BrokerName": "TTCL01",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/55-NW-68th-Ter_Miami_FL_33150_M99731-46767?f=listhub&s=MAORFL&m=A11142082&c=HomePath",
+            "ListingTitle": "Residential Rental, Single Family-annual - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Miami",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "info@terryrealtyteam.com",
+            "LeadRoutingEmail": "fernando@terryrealtyteam.com",
+            "ListBrokerageCity": "miami",
+            "ListBrokerageName": "TTCL01",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "fernando@terryrealtyteam.com",
+            "ListOfficeAddress1": "150 SE 2nd Ave",
+            "ListOfficeAddress2": "STE 300",
+            "ListBrokerageCountry": "US",
+            "ListOfficePostalCode": "33131",
+            "ListOfficeBrokerMlsId": "3391196",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33135",
+            "ListBrokerageWebsiteUrl": "https://www.terryterry.co",
+            "MLSModificationTimestamp": "2022-01-05T11:00:50.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "833 sw 14 ave"
+        },
+        "ListAgentKey": "3yd-MAORFL-3391196",
+        "ListAgentURL": "http://www.terryrealtyteam.com",
+        "LotSizeAcres": 0.12,
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-13-006-0240",
+        "ParkingTotal": 4,
+        "PropertyType": "Residential Lease",
+        "StoriesTotal": 2,
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 1,
+        "BedroomsTotal": 3,
+        "ListOfficeKey": "3yd-MAORFL-TTCL01",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "Showings will Start 1/10/2022 - Absolutely gorgeous, newly constructed Townhome. 3 bedroom 2.5 bath with Stainless Steel appliances and washer Dryer. centrally located near Magic City new development, Design District, restaurants, 10 mins from Wynwood and 5 mins from the I-95 and so much more... Easy to show and fast approval, good credit and employment landlord may consider first month and security deposit. YouTube your video available.  24-hour notice.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "fernando@terryrealtyteam.com",
+        "ListAgentMlsId": "3391196",
+        "ListOfficeName": "Terry & Terry Co",
+        "SourceSystemID": "MAORFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "TTCL01",
+        "ListOfficePhone": "3059077028",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [
+            "Garage",
+            "Garage - Attached"
+        ],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "PRAMAR",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "55 NW 68th Ter",
+        "ExteriorFeatures": [
+            "High Impact Doors",
+            "Open Balcony"
+        ],
+        "InteriorFeatures": [
+            "First Floor Entry"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "MIAMI Association of REALTORS\u00c2\u00ae",
+        "ListAgentFullName": "Fernando Terry",
+        "ListAgentLastName": "Terry",
+        "PropertyCondition": [
+            "New Construction"
+        ],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Fernando",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2022-01-02",
+        "TaxLegalDescription": "13 53 41 PRAMAR SUB PB 8-110 LOT 26 LESS S6FT FOR ST LOT SIZE 60.000 X 84 OR 22618-3194 0604 3",
+        "ListAgentOfficePhone": "3059077028",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 3,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2022-01-05T17:33:41.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2022-01-04T03:25:29.000Z",
+        "ListAgentPreferredPhone": "3059077028",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": true
+    },
+    {
+        "Roof": [],
+        "View": [],
+        "Media": [
+            {
+                "MediaKey": "ff9cd4d443abc82509ef279b894176ba2071e8a0",
+                "MediaURL": "http://lh.rdcpix.com/94839e3497565971c1780cda715b8c1fl-f421477907r.jpg",
+                "MediaCategory": "Photo",
+                "MediaModificationTimestamp": "2021-12-10T05:35:59.000Z"
+            }
+        ],
+        "Rooms": [
+            "Bathroom 1",
+            "Bathroom 2",
+            "Bedroom 1",
+            "Bedroom 2",
+            "Bedroom 3",
+            "Bedroom 4"
+        ],
+        "SpaYN": false,
+        "Cooling": [],
+        "Country": "US",
+        "Fencing": [],
+        "Heating": [],
+        "Flooring": [],
+        "Location": null,
+        "ListPrice": 2100.0,
+        "ListingId": "F10309731",
+        "OpenHouse": [],
+        "Utilities": [],
+        "YearBuilt": 2008,
+        "Appliances": [],
+        "Disclaimer": "Copyright \u00c2\u00a9 2021 BeachesMLS / Matrix. All rights reserved. All information provided by the listing agent/broker is deemed reliable but is not guaranteed and should be independently verified.",
+        "ListingKey": "3yd-RAGFLFL-F10309731",
+        "PostalCity": "Miami",
+        "PostalCode": "33150",
+        "Vegetation": [],
+        "FireplaceYN": false,
+        "PhotosCount": 1,
+        "CustomFields": {
+            "Taxes": [
+                {
+                    "TaxAnnualAmount": 0
+                }
+            ],
+            "Expenses": [],
+            "BrokerName": "Advanced Realty",
+            "ListingURL": "https://www.realtor.com/realestateandhomes-detail/759-NW-70th-St_Miami_FL_33150_M60022-96326?f=listhub&s=RAGFLFL&m=F10309731&c=HomePath",
+            "ListingTitle": "Residential Rental - Miami, FL",
+            "Neighborhoods": [],
+            "ListOfficeCity": "Sunrise",
+            "AlternatePrices": [],
+            "ListOfficeEmail": "phillip@advancedrealtycorp.com",
+            "LeadRoutingEmail": "info@advancedrealtycorp.com",
+            "ListBrokerageCity": "Tamarac",
+            "ListBrokerageName": "Advanced Realty",
+            "ListOfficeCountry": "US",
+            "ListBrokerageEmail": "phillip@advancedrealtycorp.com",
+            "ListBrokeragePhone": "954-726-7900",
+            "ListOfficeAddress1": "4948 N Pine Island Road",
+            "ListBrokerageCountry": "US",
+            "ListBrokerageLogoUrl": "http://brokerlogos.listhub.net/RAGFLFL/d2b7de816a8b11e29cda12313933b556/20151217201000782.png",
+            "ListOfficePostalCode": "33351",
+            "ListPriceCurrencyType": "USD",
+            "ListBrokeragePostalCode": "33319",
+            "ListBrokerageWebsiteUrl": "http://www.advancedrealtycorp.com",
+            "MLSModificationTimestamp": "2021-12-10T04:40:32.000Z",
+            "ListOfficeStateOrProvince": "FL",
+            "ListBrokerageStateOrProvince": "FL",
+            "ListBrokerageUnparsedAddress": "6652 NW 57 Street"
+        },
+        "ListAgentKey": "3yd-RAGFLFL-276543755",
+        "ListAgentURL": "http://www.advancedrealtycorp.com",
+        "LotSizeUnits": "Acres",
+        "ParcelNumber": "01-31-14-019-0400",
+        "ParkingTotal": 0,
+        "PropertyType": "Residential Lease",
+        "WaterfrontYN": false,
+        "BathroomsFull": 2,
+        "BathroomsHalf": 0,
+        "BedroomsTotal": 4,
+        "ListOfficeKey": "3yd-RAGFLFL-4352",
+        "PoolPrivateYN": false,
+        "PublicRemarks": "VERY NICE AND SPACIOUS 4 BEDROOM 2 BATHROOM, CENTRALLY LOCATED.",
+        "StructureType": [],
+        "CountyOrParish": "Miami-dade County",
+        "ListAgentEmail": "kellingbeckrealtor@yahoo.com",
+        "ListAgentMlsId": "276543755",
+        "ListOfficeName": "Advanced Realty",
+        "SourceSystemID": "RAGFLFL",
+        "StandardStatus": "Active",
+        "WindowFeatures": [],
+        "ListOfficeMlsId": "4352",
+        "ListOfficePhone": "9547267900",
+        "LivingAreaUnits": "Square Feet",
+        "OtherStructures": [],
+        "ParkingFeatures": [],
+        "PropertySubType": "Single Family Residence",
+        "StateOrProvince": "FL",
+        "SubdivisionName": "Henry Ford Sub 2",
+        "TransactionType": "ForRent",
+        "UnparsedAddress": "759 NW 70th St",
+        "ExteriorFeatures": [],
+        "InteriorFeatures": [
+            "First Floor Entry"
+        ],
+        "SecurityFeatures": [],
+        "SourceSystemName": "BeachesMLS / Matrix",
+        "ListAgentFullName": "Kevin Kellingbeck",
+        "ListAgentLastName": "Kellingbeck",
+        "PropertyCondition": [],
+        "ArchitecturalStyle": [
+            "Other"
+        ],
+        "ListAgentFirstName": "Kevin",
+        "WaterfrontFeatures": [],
+        "BathroomsOneQuarter": 0,
+        "ListingContractDate": "2021-11-30",
+        "TaxLegalDescription": "HENRY FORD SUB NO 2 PB 9-119 LOTS 39 & 40 BLK 2 LOT SIZE 50.000 X 143 OR 24300-2227 01 2006 4 COC 26113-1875 12 2007 6",
+        "ListAgentOfficePhone": "9547267900",
+        "AccessibilityFeatures": [],
+        "BathroomsThreeQuarter": 0,
+        "BathroomsTotalInteger": 2,
+        "ConstructionMaterials": [],
+        "ListAgentStateLicense": "",
+        "ModificationTimestamp": "2021-12-10T06:16:51.000Z",
+        "PatioAndPorchFeatures": [],
+        "PhotosChangeTimestamp": "2021-12-10T05:35:59.000Z",
+        "ListAgentPreferredPhone": "9547267900",
+        "InternetAddressDisplayYN": true,
+        "SpecialListingConditions": [],
+        "InternetConsumerCommentYN": true,
+        "InternetAutomatedValuationDisplayYN": true
+    }
+]
+}

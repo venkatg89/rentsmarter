@@ -1,0 +1,165 @@
+import React, { useState } from "react";
+
+// styled-components
+import styled from "styled-components/native";
+
+import { View, Text } from "react-native";
+
+// react-navigation
+
+import { createMaterialTopTabNavigator } from "@react-navigation/material-top-tabs";
+import CalculatorView from "./CalculatorView";
+import CalculatorSummaryView from "./CalculatorSummaryView";
+
+import Ionicons from "react-native-vector-icons/Ionicons";
+
+import { createStackNavigator } from "@react-navigation/stack";
+
+import typography from "../../../config/typography";
+import { useNavigation } from "@react-navigation/native";
+import ExpensesDetailView from "../itemizedexpenses/ExpensesDetailView";
+import PayDeductionsView from "../deductions/PayDeductionsView";
+
+import NavTitleCalculator from "../NavTitleCalculator";
+import appColors from "../../../config/colors";
+
+function CalculatorStackScreen({}) {
+  const CalculatorStack = createStackNavigator();
+
+  return (asdasd
+    <CalculatorStack.Navigator screenOptions={{ headerShown: true }}>
+      <CalculatorStack.Screen
+        name="CalculatorStack"
+        component={PackageCalcView}
+        options={{
+          headerTitle: NavTitleCalculator,
+        }}
+      />
+      <CalculatorStack.Screen
+        name="Itemized Expenses"
+        component={ExpensesDetailView}
+      />
+      <CalculatorStack.Screen
+        name="PayDeductions"
+        component={PayDeductionsView}
+      />
+    </CalculatorStack.Navigator>
+  );
+}
+
+function PackageCalcView() {
+  //   let opacity1 = useState(new Animated.Value(1)); // doesn't work
+  //   let opacity2 = useRef(new Animated.Value(1)).current;
+  //   let opacity3 = useRef(new Animated.Value(0)).current;
+  //   let move1 = useRef(new Animated.ValueXY()).current;
+  //   // let opacity = new Animated.Value(1);
+  //    let scale1 = useRef(new Animated.Value(1)).current;
+
+  //    // for scale:
+  //    const animatedStyles = {
+  //      transform: [
+  //        {
+  //          scale: scale1,
+  //        }
+  //      ]
+  //    }
+
+  // look at setting ToolTipView height width to 0 0 on animation completion
+  return (
+    <Container>
+      <CalculatorPagesTabView></CalculatorPagesTabView>
+      {/* <ToolTipView></ToolTipView> */}
+    </Container>
+  );
+}
+
+function CalculatorPagesTabView() {
+  const TabTop = createMaterialTopTabNavigator();
+  const navigation = useNavigation();
+  const [ swipeEnabled, setSwipeEnabled ] = useState(false);
+
+  const [calcHasFocus, setCalcHasFocus] = useState(true);
+
+  return (
+    <TabTop.Navigator
+      screenOptions={({ route }) => ({
+        // tabBarStyle: { height: 40},
+        tabBarActiveTintColor: appColors.fannieBlack,
+        tabBarInactiveTintColor: appColors.grayNeutral,
+        tabBarItemStyle: { backgroundColor: "white", height: 60 },
+        tabBarLabelStyle: { height: 100 },
+
+        // tabBarContentContainerStyle: {height: 50}
+        // tabBarIcon: ({ focused, color, size }) => {
+        //   let iconName: string = "";
+        //   // if (route.name === "Calculator") {
+        //   //   iconName = focused ? "home" : "home-outline";
+        //   // } else if (route.name === "Calculator Summary View") {
+        //   //   iconName = focused ? "search" : "search-outline";
+        //   // }
+
+        //   return <Ionicons name={iconName} size={size} color={color} />;
+        // },
+        // other screen options
+        headerShown: true,
+        swipeEnabled: false,
+      })}
+    >
+      <TabTop.Screen name="Calculator" component={CalculatorView} />
+      <TabTop.Screen name="Summary" component={CalculatorSummaryView} />
+    </TabTop.Navigator>
+  );
+}
+
+const LargeTextStyle = typography.largeTextStyle;
+
+const Container = styled.View`
+  flex: 1;
+  flex-direction: column;
+`;
+
+export default CalculatorStackScreen;
+
+const SafeArea = styled.SafeAreaView`
+  flex: 1;
+  justify-content: center;
+  background-color: #f8f6f5;
+  align-items: center;
+`;
+
+const TabsContainer = styled.View`
+  z-index: 40;
+  position: absolute;
+`;
+
+const TabLabelRow = styled.View`
+  flex: 1;
+  flex-direction: row;
+`;
+
+const TabLabelColumn = styled.View`
+  flex: 1;
+  flex-direction: column;
+`;
+
+const TabLabelViewFocused = styled.View`
+  background-color: white;
+  height: 40px;
+  width: 150px;
+  border-radius: 10px;
+  border-color: black;
+  border-width: 0.5px;
+`;
+
+const TabLabelViewUnFocused = styled.View`
+  background-color: lightgray;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  border-color: black;
+  border-width: 0.5px;
+`;
+
+const Spacer = styled.View`
+flex: 1;
+`

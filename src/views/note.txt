@@ -1,0 +1,18 @@
+see index.js at root level, where Redux store is set up for the app
+
+
+
+let aCount: ICount;
+let setACount: any;
+[aCount, setACount] = useState({​ count: 0 }​);
+let [bCount, setBCount] = useState(0);
+const decrementCount = () => {​
+aCount.count--;
+bCount--;
+// console.log(aCount)
+}​;
+const incrementCount = () => {​
+aCount.count++;
+bCount++;
+// console.log(aCount)
+}​;

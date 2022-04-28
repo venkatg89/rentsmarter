@@ -1,0 +1,42 @@
+
+expenses on main calc
+NEVER change the initial Oex
+
+positive move
+
+get total moved on main slider
+
+say its 80
+
+divide by 8, that's the part
+
+set the context oex to initial + part
+
+
+======what is state used for========
+
+**on expenses component in Main  
+-captures init value of expenses
+-captures init value of each itemized expense
+(since never changed, why? why not just use context or redux)
+
+--in both cases init once on slider start 
+
+**on itemized expenses
+-captures init value of each itemized expense
+--init once on slider start 
+
+======what is context used for========
+
+**on main
+-update context for each itemized exp, so it's reflected there, 
+-also -the source of current value of each itemized expense
+
+**on itemized expenses
+-the 'state at calculator level' for each itemized expense.
+
+what is redux used for 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+// TODAY PUSH LAST SUCCESSFUL TOTAL UP TO CONTEXT

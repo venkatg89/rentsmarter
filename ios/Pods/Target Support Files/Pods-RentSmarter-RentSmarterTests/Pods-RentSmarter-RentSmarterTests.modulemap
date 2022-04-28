@@ -1,0 +1,6 @@
+module Pods_RentSmarter_RentSmarterTests {
+  umbrella header "Pods-RentSmarter-RentSmarterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

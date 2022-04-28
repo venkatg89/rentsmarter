@@ -1,0 +1,96 @@
+pod update RCT-Folly --no-repo-update
+
+then change boost podspec to point at my 176.0 repo
+
+@itinance yes you can easily "fork" a podspec. Copy the podspec over from the master repo, download the source manually, change the source in the copied podspec and re-publish it to your own cocoapods repo.
+
+Then use pod 'Boost', :source => 'your-own-repo.git'.
+
+Going to close this issue. Please message here if you feel strongly there is something we can improve in CocoaPods library itself.
+
+Alternatively, you can ask the author to update their source.
+6666
+===
+
+boost is here
+
+https://boostorg.jfrog.io/ui/native/main/release/1.76.0/source
+
+created github repo with source:
+https://github.com/misbell/boost-176.0.git
+
+====
+Pod::Spec.new do |spec|
+  spec.name = 'boost'
+  spec.version = '1.76.0'
+  spec.license = { :type => 'Boost Software License', :file => "LICENSE_1_0.txt" }
+  spec.homepage = 'http://www.boost.org'
+  spec.summary = 'Boost provides free peer-reviewed portable C++ source libraries.'
+  spec.authors = 'Rene Rivera'
+  spec.source = { :http => 'https://github.com/misbell/boost-176.0.git' }
+
+  # Pinning to the same version as React.podspec.
+  spec.platforms = { :ios => '12.0', :tvos => '12.0' }
+  spec.requires_arc = false
+
+  spec.module_name = 'boost'
+  spec.header_dir = 'boost'
+  spec.preserve_path = 'boost'
+end
+
+===
+
+ 
+Pod::Spec.new do |spec|
+  spec.name = 'boost'
+  spec.version = '1.76.0'
+  spec.license = { :type => 'Boost Software License', :file => "LICENSE_1_0.txt" }
+  spec.homepage = 'http://www.boost.org'
+  spec.summary = 'Boost provides free peer-reviewed portable C++ source libraries.'
+  spec.authors = 'Rene Rivera'
+  spec.source = { :git => 'https://github.com/misbell/boost-176.0.git'}
+                   
+
+  # Pinning to the same version as React.podspec.
+  spec.platforms = { :ios => '11.0', :tvos => '11.0' }
+  spec.requires_arc = false
+
+  spec.module_name = 'boost'
+  spec.header_dir = 'boost'
+  spec.preserve_path = 'boost'
+end
+
+
+
+the podspec is in:
+../RentSmarter/node_modules/react-native/third-party-podspecs
+
+
+====
+boost will finish with pod install now
+
+====
+then to prevent compile error
+
+//typedef enum clockid_t;
+extern "C" int clock_gettime(clockid_t clk_id, struct timespec* ts);
+extern "C" int clock_getres(clockid_t clk_id, struct timespec* ts);
+#endif
+
+comment out this typedef in time.h in rtc folly in 
+../Pods/RCT-Folly/folly/portability
+
+that will get rid of that error
+finally an error because a libarary isn't installed...
+
+=====
+Figured this out. There is a new library in Xcode 12 that needs to be added 
+to the Link Binary with Libraries phase call 
+
+libSwiftWebKit.tbd. 
+
+Error went away after adding this.
+from : https://developer.apple.com/forums/thread/655438
+
+===
+

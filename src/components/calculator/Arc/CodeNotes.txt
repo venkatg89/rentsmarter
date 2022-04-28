@@ -1,0 +1,17 @@
+  let segm1 =
+    arcData.arc_segment_1_end != arcData.arc_segment_1_begin ? (
+      <Path
+        fill="none"
+        stroke={appColors.rentAmountGreen}
+        strokeWidth={15}
+        strokeLinecap="square"
+        d={drawArc(
+          windowWidth * 0.5,
+          svgsize.height,
+          Platform.OS === "ios" ? svgsize.height * 0.93 : svgsize.height * 0.92,
+          arcData.arc_segment_1_begin,
+          arcData.arc_segment_1_end
+        )}
+      />
+    ) : null;
+

@@ -1,0 +1,11 @@
+bold account data
+
+  func createAccount() -> BotAccount {
+        let account = BotAccount()
+        account.account = "FannieMaeKYO"
+        account.knowledgeBase = "English"
+        account.apiKey = "ddee689c-e1d0-4d7c-ae58-dc23d2f33ff1"
+        
+        account.nanorepContext = ["Audience": "RentSmarter"]
+        NanoRep.shared()?.prepare(with: account)
+        

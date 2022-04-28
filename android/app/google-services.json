@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "404155515437",
+    "project_id": "eit-project-rentsmarter",
+    "storage_bucket": "eit-project-rentsmarter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404155515437:android:b5b69c8c48ec8d6cb82ea4",
+        "android_client_info": {
+          "package_name": "com.RentSmarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404155515437-o3qct9uru2r46a9toj7m17pjdbirv83b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM52yCPsqOOgrrPkeM2ifROsVS9fxcDoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404155515437-o3qct9uru2r46a9toj7m17pjdbirv83b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404155515437-alu6v57f6usfc3mhllv22n7ed7u0jv68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fanniemae.rentpath",
+                "app_store_id": "1531523663"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

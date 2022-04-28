@@ -1,0 +1,164 @@
+   // // // console.log("OnEndEditing() monthlyitemizedexpenses function");
+
+    cdispatch(c_monthlyitemizedexpensesvalueiseditable(false));
+    
+    // console.log("end edit last cleaned number " + String(lastCleanedNumber))
+    // console.log("slider number is " + String(monthlyitemizedexpensesslider))
+
+    if (lastCleanedNumber > initialMexTotalValue) {
+      let positivebucket = 0;
+      let difference = lastCleanedNumber - initialMexTotalValue;
+      let part = Math.ceil(difference / numberOfItemizedExpenseTypes / 10) * 10;
+      let realpart = difference / numberOfItemizedExpenseTypes 
+      //if part > 100
+      // if total monthly > 5000
+      // console.log("positive part is " + String(part));
+
+    
+      // if (Number(initialMexTotalValue + difference) <= CalculatorState.grossIncomeRange / 2) {
+      if (lastCleanedNumber <= halfrange) {
+        // console.log("updateitems 003")
+        updateItems(
+          cdispatch,
+          dispatch,
+          initialMexTotalValue,
+          initialOexItemValue,
+          initialCellpItemValue,
+          initialInsItemValue,
+          initialUtiItemValue,
+          initialGroItemValue,
+          initialTraItemValue,
+          initialSubItemValue,
+          part,
+          realpart,
+          positivebucket
+        );
+  
+      } else {
+        // we're over 5000 ... 
+        let initTotal = 0;
+        // console.log("initmextotal " + String(initialMexTotalValue))
+        
+        if (initialMexTotalValue > halfrange) {
+          initTotal = halfrange;
+          let result = Math.round(initTotal / 7);
+
+          cdispatch(c_changeotherexpensesslider(result));
+          cdispatch(c_changeotherexpensestext(result));
+          dispatch(changeotherexpenses(result));
+
+          cdispatch(c_changecellphonebillslider(result));
+          cdispatch(c_changecellphonebilltext(result));
+          dispatch(changecellphonebill(result));
+
+          cdispatch(c_changeutilitiesslider(result));
+          cdispatch(c_changeutilitiestext(result));
+          dispatch(changeutilities(result));
+
+          cdispatch(c_changeinsuranceslider(result));
+          cdispatch(c_changeinsurancetext(result));
+          dispatch(changeinsurance(result));
+
+          cdispatch(
+            c_changesubscriptionservicesslider(result)
+          );
+          cdispatch(
+            c_changesubscriptionservicestext(result)
+          );
+          dispatch(changesubscriptionservices(result));
+
+          cdispatch(
+            c_changegroceriesanddiningslider(result)
+          );
+          cdispatch(c_changegroceriesanddiningtext(result));
+          dispatch(changegroceriesanddining(result));
+
+          cdispatch(c_changetransportationslider(result));
+          cdispatch(c_changetransportationtext(result));
+          dispatch(changetransportation(result));
+
+        } else {
+          initTotal = halfrange // initialMexTotalValue;
+        }
+
+        cdispatch(c_changemonthlyitemizedexpensesslider(initTotal));
+        cdispatch(c_changemonthlyitemizedexpensestext(initTotal));
+        dispatch(changeexpenses(initTotal));
+
+
+      }
+    }
+
+    if (initialMexTotalValue > monthlyitemizedexpensesslider) {
+      let negativebucket = 0;
+      let difference = initialMexTotalValue - monthlyitemizedexpensesslider;
+      let part = Math.ceil(difference / numberOfItemizedExpenseTypes / 10) * 10;
+      let realpart = difference / numberOfItemizedExpenseTypes
+      if (part < 0) part = 0;
+      if (monthlyitemizedexpensesslider == 0) {
+        part = 0;
+        initialOexItemValue = 0;
+        initialCellpItemValue = 0;
+        initialInsItemValue = 0;
+        initialUtiItemValue = 0;
+        initialGroItemValue = 0;
+        initialTraItemValue = 0;
+        initialSubItemValue = 0;
+      }
+
+      negativebucket += initialOexItemValue - part;
+      cdispatch(c_changeotherexpensesslider(initialOexItemValue - part));
+      cdispatch(c_changeotherexpensestext(initialOexItemValue - part));
+      dispatch(changeotherexpenses(initialOexItemValue - part));
+
+      negativebucket += initialCellpItemValue - part;
+      cdispatch(c_changecellphonebillslider(initialCellpItemValue - part));
+      cdispatch(c_changecellphonebilltext(initialCellpItemValue - part));
+      dispatch(changecellphonebill(initialCellpItemValue - part));
+
+      negativebucket += initialUtiItemValue - part;
+      cdispatch(c_changeutilitiesslider(initialUtiItemValue - part));
+      cdispatch(c_changeutilitiestext(initialUtiItemValue - part));
+      dispatch(changeutilities(initialUtiItemValue - part));
+
+      negativebucket += initialInsItemValue - part;
+      cdispatch(c_changeinsuranceslider(initialInsItemValue - part));
+      cdispatch(c_changeinsurancetext(initialInsItemValue - part));
+      dispatch(changeinsurance(initialInsItemValue - part));
+
+      negativebucket += initialSubItemValue - part;
+      cdispatch(c_changesubscriptionservicesslider(initialSubItemValue - part));
+      cdispatch(c_changesubscriptionservicestext(initialSubItemValue - part));
+      dispatch(changesubscriptionservices(initialSubItemValue - part));
+
+      negativebucket += initialGroItemValue - part;
+      cdispatch(c_changegroceriesanddiningslider(initialGroItemValue - part));
+      cdispatch(c_changegroceriesanddiningtext(initialGroItemValue - part));
+      dispatch(changegroceriesanddining(initialGroItemValue - part));
+
+      negativebucket += initialTraItemValue - part;
+      cdispatch(c_changetransportationslider(initialTraItemValue - part));
+      cdispatch(c_changetransportationtext(initialTraItemValue - part));
+      dispatch(changetransportation(initialTraItemValue - part));
+
+      // console.log("negative bucket is " + String(negativebucket));
+
+      cdispatch(c_changemonthlyitemizedexpensesslider(negativebucket));
+      cdispatch(c_changemonthlyitemizedexpensestext(negativebucket));
+
+      dispatch(changeexpenses(negativebucket));
+
+      // console.log("text negative part is " + String(part));
+      // console.log("text negative realpart is " + String(realpart));
+    }
+
+    async () =>
+      await analytics().logEvent("calculator", {
+        id: 60000010,
+        event: "text-input-monthlyitemizedexpenses",
+        description: [
+          "used monthlyitemizedexpenses text input",
+          { monthlyitemizedexpensesslider },
+        ],
+      });
+  };

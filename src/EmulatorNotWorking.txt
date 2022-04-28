@@ -1,0 +1,20 @@
+if the emulator isn't working
+
+shutdown restart
+kill terminal and restart
+sign into vpn without signing into zscaler first (log out of vpn, log in again)
+try changing 8082 to 8082 in merger.xml (even though something changes it back automatically)
+try deleting $TMPDIR (-rf *.* and -rf *)
+wipe data from emulator
+run abd in $HOME/Library/Android/sdk/platform-tools
+yarn start --reset-cache
+see if something else is using port 8082
+
+
+
+however, it seems that sometimes it just stops working
+
+the problem is that emulator under certain conditions cannot connect to metro on 8082
+we don't know what those conditions are.
+maybe a scan of some kind could tell us.
+
