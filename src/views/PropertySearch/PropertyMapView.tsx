@@ -10,6 +10,7 @@ import {
   Image,
   ScrollView,
 } from "react-native";
+import { useNavigation } from "@react-navigation/native";
 import styles from "./PropertySearchStyles";
 import MapView, { PROVIDER_GOOGLE, Marker } from "react-native-maps";
 const { width } = Dimensions.get("window");
@@ -39,6 +40,7 @@ const PropertyMapView: React.FC<props> = ({
   setSearchScreen,
   search = "76522",
 }) => {
+  const navigation = useNavigation();
   console.log("search:::", search);
   const _filteredData = Object.keys(zipData)
     .filter((key) => search === key)
@@ -60,6 +62,18 @@ const PropertyMapView: React.FC<props> = ({
   const [selectedFilter, setSelectedFilter] = useState("price");
   const [data, setData] = useState(mockData);
   const [filteredData, setFilteredData] = useState(_filteredData);
+  const [savedProperties, SetSavedProperties] = useState(() => {
+    const s: string[] = [];
+    return s;
+  });
+
+  navigation.setOptions({
+    headerRight: () => (
+      <Text style={{ marginHorizontal: 5, color: "#0096FF" }}>
+        {savedProperties.length > 0 ? `Saved (${savedProperties.length})` : ""}
+      </Text>
+    ),
+  });
 
   function OnMarkerSelected(value: any): void {
     // setShowMaps(!showMpas)
@@ -68,8 +82,18 @@ const PropertyMapView: React.FC<props> = ({
     setMarkerData(value);
   }
 
-  function OnSavePropertyClick(): void {
-    setSaveProperty(!saveProperty);
+  function OnSavePropertyClick(listingId: string, saveProperty: boolean): void {
+    if (saveProperty) {
+      if (
+        !savedProperties.some((savedProperty) => savedProperty === listingId)
+      ) {
+        SetSavedProperties([...savedProperties, listingId]);
+      }
+    } else {
+      SetSavedProperties(
+        savedProperties.filter((savedProperty) => savedProperty !== listingId)
+      );
+    }
   }
 
   function ShowFilterModal(): void {
