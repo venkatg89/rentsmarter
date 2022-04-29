@@ -69,9 +69,24 @@ const PropertyMapView: React.FC<props> = ({
 
   navigation.setOptions({
     headerRight: () => (
-      <Text style={{ marginHorizontal: 5, color: "#0096FF" }}>
-        {savedProperties.length > 0 ? `Saved (${savedProperties.length})` : ""}
-      </Text>
+      <TouchableOpacity
+        style={{ marginHorizontal: 5 }}
+        onPress={() =>
+          navigation.navigate("Saved Properties", {
+            properties: (filteredData as any[]).filter((item) =>
+              savedProperties.some(
+                (savedProperty) => savedProperty === item.ListingId
+              )
+            ),
+          })
+        }
+      >
+        <Text style={{ color: "#0096FF" }}>
+          {savedProperties.length > 0
+            ? `Saved (${savedProperties.length})`
+            : ""}
+        </Text>
+      </TouchableOpacity>
     ),
   });
 

@@ -18,18 +18,20 @@ const { width } = Dimensions.get("window");
 type props = {
   listData: any | undefined;
   marginVertical: number | undefined;
-  OnSavePropertyClick: (
+  OnSavePropertyClick?: (
     listingId: string,
     saveProperty: boolean
   ) => void | undefined;
+  isSavedProperty: boolean;
 };
 
 const PropertyCard: React.FC<props> = ({
   listData,
   marginVertical,
   OnSavePropertyClick,
+  isSavedProperty,
 }) => {
-  const [saveProperty, setSaveProperty] = useState(false);
+  const [saveProperty, setSaveProperty] = useState(isSavedProperty);
   let imageData = [];
   if (listData?.Media.length > 0) {
     {
@@ -109,7 +111,8 @@ const PropertyCard: React.FC<props> = ({
           <TouchableOpacity
             onPress={() => {
               setSaveProperty(!saveProperty);
-              OnSavePropertyClick(listData.ListingId, !saveProperty);
+              OnSavePropertyClick &&
+                OnSavePropertyClick(listData.ListingId, !saveProperty);
             }}
           >
             {saveProperty ? (
