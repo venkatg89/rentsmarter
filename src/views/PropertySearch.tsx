@@ -20,6 +20,7 @@ import SearchScreen from "./SearchScreen";
 
 import PropertyMapView from "./PropertySearch/PropertyMapView";
 import SavedProperties from "./PropertySearch/SavedProperties";
+import PropertySearchFilters from "./PropertySearch/PropertySearchFilters";
 
 const PropertyStack = createStackNavigator();
 
@@ -45,6 +46,10 @@ function PropertyStackScreen({}) {
       <PropertyStack.Screen
         name="Saved Properties"
         component={SavedProperties}
+      />
+      <PropertyStack.Screen
+        name="Property Search Filters"
+        component={PropertySearchFilters}
       />
     </PropertyStack.Navigator>
   );

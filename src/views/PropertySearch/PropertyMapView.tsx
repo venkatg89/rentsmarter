@@ -204,7 +204,12 @@ const PropertyMapView: React.FC<props> = ({
                 marginRight: 10,
               }}
             >
-              <Text style={styles.listText}>Filters</Text>
+              <Text
+                style={styles.listText}
+                onPress={() => navigation.navigate("Property Search Filters")}
+              >
+                Filters
+              </Text>
             </View>
           </View>
           {filteredData && filteredData.length > 0 ? (
