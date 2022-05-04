@@ -17,13 +17,28 @@ type props = {};
 const bedRooms = ["Any", "Studio", "1", "2", "3", "4", "5+"];
 const bathRooms = ["Any", "1", "2", "3+"];
 const Item = Picker.Item;
+const Min_Monthly_Rent = 0;
+const Max_Monthly_Rent = 2000;
+const Default_Min_Monthly_Rent = 400;
+const Default_Max_Monthly_Rent = 800;
 
 const PropertySearchFilters: React.FC<props> = ({}) => {
+  let sliderRef: any = null;
+
   const [selectedBedRoom, setSelectedBedRoom] = useState([]);
   const [selectedBathRoom, setSelectedBathRoom] = useState([]);
   const [selectedMinSquareFeet, setSelectedMinSquareFeet] = useState("900");
   const [selectedMaxSquareFeet, setSelectedMaxSquareFeet] = useState("1100");
-  const [selectedMonthlyRent, setSelectedMonthlyRent] = useState([400, 800]);
+  const [selectedMonthlyRent, setSelectedMonthlyRent] = useState([
+    Default_Min_Monthly_Rent,
+    Default_Max_Monthly_Rent,
+  ]);
+  const [minMonthlyRent, setMinMonthlyRent] = useState(
+    Default_Min_Monthly_Rent.toString()
+  );
+  const [maxMonthlyRent, setMaxMonthlyRent] = useState(
+    Default_Max_Monthly_Rent.toString()
+  );
 
   return (
     <View style={{ flex: 1 }}>
@@ -34,16 +49,24 @@ const PropertySearchFilters: React.FC<props> = ({}) => {
               Montly Rent
             </Text>
             <Input
+              keyboardType={"numeric"}
               containerStyle={{
                 flex: 0.3,
               }}
               placeholder="Min Rent"
               leftIcon={{ type: "font-awesome", name: "dollar", size: 20 }}
-              value={
-                selectedMonthlyRent.length > 0
-                  ? `${selectedMonthlyRent[0]}`
-                  : ``
-              }
+              value={minMonthlyRent}
+              onChangeText={(text) => {
+                if (
+                  parseInt(text) >= Min_Monthly_Rent &&
+                  parseInt(text) <= Max_Monthly_Rent
+                ) {
+                  const item = [parseInt(text), parseInt(maxMonthlyRent)];
+                  console.log("item", item);
+                  setSelectedMonthlyRent(item);
+                }
+                setMinMonthlyRent(text);
+              }}
             />
             <Text
               style={[
@@ -60,11 +83,18 @@ const PropertySearchFilters: React.FC<props> = ({}) => {
               containerStyle={{ flex: 0.3 }}
               placeholder="Max Rent"
               leftIcon={{ type: "font-awesome", name: "dollar", size: 20 }}
-              value={
-                selectedMonthlyRent.length > 0
-                  ? `${selectedMonthlyRent[1]}`
-                  : ``
-              }
+              value={maxMonthlyRent}
+              onChangeText={(text) => {
+                if (
+                  parseInt(text) >= Min_Monthly_Rent &&
+                  parseInt(text) <= Max_Monthly_Rent
+                ) {
+                  const item = [parseInt(minMonthlyRent), parseInt(text)];
+                  console.log("item", item);
+                  setSelectedMonthlyRent(item);
+                }
+                setMaxMonthlyRent(text);
+              }}
             />
           </View>
           {/* <SliderContainer
@@ -75,13 +105,17 @@ const PropertySearchFilters: React.FC<props> = ({}) => {
             containerStyle={{ marginHorizontal: 10 }}
             animateTransitions
             maximumTrackTintColor="#d3d3d3"
-            maximumValue={2000}
+            maximumValue={Max_Monthly_Rent}
             minimumTrackTintColor="#1fb28a"
-            minimumValue={0}
+            minimumValue={Min_Monthly_Rent}
             value={selectedMonthlyRent}
-            step={10}
             thumbTintColor="#1a9274"
-            onValueChange={(value) => setSelectedMonthlyRent(value)}
+            step={1}
+            onValueChange={(value) => {
+              setMinMonthlyRent(value[0].toString());
+              setMaxMonthlyRent(value[1].toString());
+              setSelectedMonthlyRent(value);
+            }}
           />
           {/* </SliderContainer> */}
           <Text style={instyles.text} h4>
