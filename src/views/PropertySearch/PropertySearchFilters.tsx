@@ -8,8 +8,9 @@ import {
   StyleSheet,
 } from "react-native";
 import styles from "./PropertySearchStyles";
-import { ButtonGroup, Text } from "react-native-elements";
+import { ButtonGroup, Text, Input, Icon } from "react-native-elements";
 import { Picker } from "@react-native-picker/picker";
+import { Slider } from "@miblanchard/react-native-slider";
 
 type props = {};
 
@@ -22,11 +23,67 @@ const PropertySearchFilters: React.FC<props> = ({}) => {
   const [selectedBathRoom, setSelectedBathRoom] = useState(0);
   const [selectedMinSquareFeet, setSelectedMinSquareFeet] = useState("900");
   const [selectedMaxSquareFeet, setSelectedMaxSquareFeet] = useState("1100");
+  const [selectedMonthlyRent, setSelectedMonthlyRent] = useState([400, 800]);
 
   return (
     <View style={{ flex: 1 }}>
       <SafeAreaView style={styles.mainContainer}>
         <View style={{ flex: 1 }}>
+          <View style={{ flexDirection: "row" }}>
+            <Text style={[instyles.text, { flex: 0.5 }]} h4>
+              Montly Rent
+            </Text>
+            <Input
+              containerStyle={{
+                flex: 0.3,
+              }}
+              placeholder="Min Rent"
+              leftIcon={{ type: "font-awesome", name: "dollar", size: 20 }}
+              value={
+                selectedMonthlyRent.length > 0
+                  ? `${selectedMonthlyRent[0]}`
+                  : ``
+              }
+            />
+            <Text
+              style={[
+                {
+                  flex: 0.1,
+                  alignSelf: "center",
+                },
+              ]}
+              h4
+            >
+              -
+            </Text>
+            <Input
+              containerStyle={{ flex: 0.3 }}
+              placeholder="Max Rent"
+              leftIcon={{ type: "font-awesome", name: "dollar", size: 20 }}
+              value={
+                selectedMonthlyRent.length > 0
+                  ? `${selectedMonthlyRent[1]}`
+                  : ``
+              }
+            />
+          </View>
+          {/* <SliderContainer
+            caption="<Slider/> with custom style"
+            sliderValue={[400, 800]}
+          > */}
+          <Slider
+            containerStyle={{ marginHorizontal: 10 }}
+            animateTransitions
+            maximumTrackTintColor="#d3d3d3"
+            maximumValue={2000}
+            minimumTrackTintColor="#1fb28a"
+            minimumValue={0}
+            value={selectedMonthlyRent}
+            step={10}
+            thumbTintColor="#1a9274"
+            onValueChange={(value) => setSelectedMonthlyRent(value)}
+          />
+          {/* </SliderContainer> */}
           <Text style={instyles.text} h4>
             Bedrooms
           </Text>
