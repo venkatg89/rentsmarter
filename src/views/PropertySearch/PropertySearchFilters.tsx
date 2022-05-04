@@ -19,8 +19,8 @@ const bathRooms = ["Any", "1", "2", "3+"];
 const Item = Picker.Item;
 
 const PropertySearchFilters: React.FC<props> = ({}) => {
-  const [selectedBedRoom, setSelectedBedRoom] = useState(0);
-  const [selectedBathRoom, setSelectedBathRoom] = useState(0);
+  const [selectedBedRoom, setSelectedBedRoom] = useState([]);
+  const [selectedBathRoom, setSelectedBathRoom] = useState([]);
   const [selectedMinSquareFeet, setSelectedMinSquareFeet] = useState("900");
   const [selectedMaxSquareFeet, setSelectedMaxSquareFeet] = useState("1100");
   const [selectedMonthlyRent, setSelectedMonthlyRent] = useState([400, 800]);
@@ -88,9 +88,20 @@ const PropertySearchFilters: React.FC<props> = ({}) => {
             Bedrooms
           </Text>
           <ButtonGroup
+            selectMultiple={true}
             buttons={bedRooms}
-            selectedIndex={selectedBedRoom}
-            onPress={(value) => {
+            selectedIndexes={selectedBedRoom}
+            onPress={(value: any) => {
+              if (value.includes(0)) {
+                if (value.length == 2) {
+                  setSelectedBedRoom(
+                    value.filter((item: number) => item !== 0)
+                  );
+                } else {
+                  setSelectedBedRoom([0]);
+                }
+                return;
+              }
               setSelectedBedRoom(value);
             }}
             containerStyle={{ marginBottom: 20 }}
@@ -99,9 +110,20 @@ const PropertySearchFilters: React.FC<props> = ({}) => {
             Bathrooms
           </Text>
           <ButtonGroup
+            selectMultiple={true}
             buttons={bathRooms}
-            selectedIndex={selectedBathRoom}
+            selectedIndexes={selectedBathRoom}
             onPress={(value) => {
+              if (value.includes(0)) {
+                if (value.length == 2) {
+                  setSelectedBathRoom(
+                    value.filter((item: number) => item !== 0)
+                  );
+                } else {
+                  setSelectedBathRoom([0]);
+                }
+                return;
+              }
               setSelectedBathRoom(value);
             }}
             containerStyle={{ marginBottom: 20 }}
