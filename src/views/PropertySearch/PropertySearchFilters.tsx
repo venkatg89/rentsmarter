@@ -7,6 +7,7 @@ import {
   ScrollView,
   StyleSheet,
   Text,
+  TouchableOpacity,
 } from "react-native";
 import styles from "./PropertySearchStyles";
 import { ButtonGroup, Input, Icon } from "react-native-elements";
@@ -15,6 +16,7 @@ import SelectDropdown from "react-native-select-dropdown";
 import { Slider } from "@miblanchard/react-native-slider";
 import Fonts from "../../Themes/Fonts";
 import { Divider } from "react-native-paper";
+import { useNavigation } from "@react-navigation/native";
 
 type props = {};
 
@@ -25,6 +27,16 @@ const Item = Picker.Item;
 const MIN = 500;
 
 const PropertySearchFilters: React.FC<props> = ({}) => {
+  const navigation = useNavigation();
+
+  navigation.setOptions({
+    headerRight: () => (
+      <TouchableOpacity style={{ marginHorizontal: 5 }} onPress={() => {}}>
+        <Text style={{ color: "#0096FF" }}>{"Reset"}</Text>
+      </TouchableOpacity>
+    ),
+  });
+
   const [selectedBedRoom, setSelectedBedRoom] = useState([]);
   const [selectedBathRoom, setSelectedBathRoom] = useState([]);
   const [selectedMinSquareFeet, setSelectedMinSquareFeet] = useState("500");
